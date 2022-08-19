@@ -1,0 +1,11 @@
+﻿k_saarland = { ## French Ambitions
+	2018.3.1 = {
+		government = feudal_government
+		liege = e_germany
+		succession_laws = {
+			feudal_elective_succession_law
+			equal_law
+		}
+		holder = owd1043
+	}
+}

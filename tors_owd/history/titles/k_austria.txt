@@ -1,0 +1,20 @@
+k_austria = {
+	1519.1.12 = { holder = owd2299 }
+	1918.11.12 = { succession_laws = { equal_law } }
+	1920.11.10 = {
+		government = feudal_government
+		succession_laws = { feudal_elective_succession_law }
+	}
+	#1995.1.1 = {
+	#	effect = {
+	#		holder = { 
+	#			#set_court_language = language_anglic
+	#			if = {
+	#				limit = { NOT = { knows_court_language_of = this } }
+	#				learn_court_language_of = this
+	#			}
+	#		}
+	#	}
+	#}
+	2017.1.26 = { holder = owd0041 }
+}

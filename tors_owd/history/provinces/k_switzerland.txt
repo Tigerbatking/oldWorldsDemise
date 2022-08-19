@@ -1,0 +1,166 @@
+#
+10370 = {
+	culture = german
+	religion = catholic
+	holding = castle_holding
+}
+8475 = {
+	culture = german
+	religion = catholic
+	holding = castle_holding
+}
+7565 = {
+	culture = german
+	religion = catholic
+	holding = castle_holding
+}
+3288 = {
+	culture = german
+	religion = protestant
+	holding = castle_holding
+}
+6038 = {
+	culture = german
+	religion = protestant
+	holding = castle_holding
+}
+3 = {
+	culture = german
+	religion = catholic
+	holding = castle_holding
+	1.1.1 = {
+		buildings = {
+			matterhorn_natural_wonder
+		}
+	}
+}
+11127 = {
+	culture = german
+	religion = catholic
+	holding = castle_holding
+}
+7558 = {
+	culture = german
+	religion = catholic
+	holding = castle_holding
+}
+8677 = {
+	culture = german
+	religion = catholic
+	holding = castle_holding
+}
+11100 = {
+	culture = german
+	religion = protestant
+	holding = castle_holding
+}
+10585 = {
+	culture = german
+	religion = protestant
+	holding = castle_holding
+}
+2163 = {
+	culture = german
+	religion = protestant
+	holding = castle_holding
+}
+1205 = {
+	culture = german
+	religion = protestant
+	holding = castle_holding
+}
+7811 = {
+	culture = german
+	religion = protestant
+	holding = castle_holding
+}
+11371 = {
+	culture = german
+	religion = protestant
+	holding = castle_holding
+}
+8229 = {
+	culture = german
+	religion = catholic
+	holding = castle_holding
+}
+9734 = {
+	culture = german
+	religion = protestant
+	holding = castle_holding
+}
+7892 = {
+	culture = german
+	religion = protestant
+	holding = castle_holding
+}
+12983 = {
+	culture = german
+	religion = catholic
+	holding = castle_holding
+}
+1957 = {
+	culture = german
+	religion = catholic
+	holding = castle_holding
+}
+11507 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+3514 = {
+	culture = west_romance
+	religion = protestant
+	holding = castle_holding
+}
+8151 = {
+	culture = west_romance
+	religion = protestant
+	holding = castle_holding
+}
+12510 = {
+	culture = west_romance
+	religion = protestant
+	holding = castle_holding
+}
+3547 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+2068 = {
+	culture = west_romance
+	religion = protestant
+	holding = castle_holding
+}
+8105 = {
+	culture = west_romance
+	religion = protestant
+	holding = castle_holding
+}
+6517 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+6358 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+6697 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+10158 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+11495 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}

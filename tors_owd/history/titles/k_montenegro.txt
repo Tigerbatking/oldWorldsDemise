@@ -1,0 +1,10 @@
+k_montenegro = {
+	1945.1.1 = { succession_laws = { equal_law } }
+	1990.12.23 = {
+		government = feudal_government
+		succession_laws = { feudal_elective_succession_law }
+	}
+	1998.1.15 = { holder = owd0032 }
+	2003.5.21 = { holder = 0 }
+	2018.5.20 = { holder = owd0032 }
+}

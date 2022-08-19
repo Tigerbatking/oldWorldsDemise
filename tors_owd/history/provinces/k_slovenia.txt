@@ -1,0 +1,61 @@
+#
+10324 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+1153 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+13687 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+8261 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+12654 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+10258 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+11159 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+10162 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+8840 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+13641 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+383 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+11943 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}

@@ -1,0 +1,150 @@
+﻿# standard costs
+@maa_buy_cost = 150
+@maa_low_maintenance_cost = 1.0
+@maa_high_maintenance_cost = 5.0
+
+slinger = {
+	type = archers
+	
+	damage = 17
+	toughness = 10
+	pursuit = 0
+	screen = 0
+	
+	terrain_bonus = {
+		hills = { damage = 10 toughness = 4 }
+		forest = { toughness = 4 screen = 4 }
+		taiga = { toughness = 4 screen = 4 }
+	}
+
+	counters = {
+		skirmishers = 1
+	}
+
+	buy_cost = { gold = 28 }
+	low_maintenance_cost = { gold = 0.09 }
+	high_maintenance_cost = { gold = 0.28 }
+	
+	mercenary_fallback = yes
+	holy_order_fallback = yes
+	
+	stack = 35
+	ai_quality = { value = culture_ai_weight_archers }
+	icon = archers
+}
+archer = {
+	type = archers
+	
+	damage = 25
+	toughness = 10
+	pursuit = 0
+	screen = 0
+	
+	terrain_bonus = {
+		hills = { damage = 10 toughness = 4 }
+		forest = { toughness = 4 screen = 4 }
+		taiga = { toughness = 4 screen = 4 }
+	}
+
+	counters = {
+		skirmishers = 1
+	}
+
+	buy_cost = { gold = 240 }
+	low_maintenance_cost = { gold = 1.08 }
+	high_maintenance_cost = { gold = 1.24 }
+	
+	mercenary_fallback = yes
+	holy_order_fallback = yes
+	
+	stack = 60
+	ai_quality = { value = culture_ai_weight_archers }
+	icon = archers
+}
+crossbowman = {
+	type = archers
+	
+	damage = 100
+	toughness = 10
+	pursuit = 0
+	screen = 0
+	
+	terrain_bonus = {
+		hills = { damage = 10 toughness = 4 }
+		forest = { toughness = 4 screen = 4 }
+		taiga = { toughness = 4 screen = 4 }
+	}
+
+	counters = {
+		skirmishers = 1
+	}
+
+	buy_cost = { gold = 144 }
+	low_maintenance_cost = { gold = 3.48 }
+	high_maintenance_cost = { gold = 4.44 }
+	
+	mercenary_fallback = yes
+	holy_order_fallback = yes
+	
+	stack = 180
+	ai_quality = { value = culture_ai_weight_archers }
+	icon = archers
+}
+field_cannon = {
+	type = archers
+	
+	damage = 235
+	toughness = 10
+	pursuit = 0
+	screen = 0
+	
+	terrain_bonus = {
+		hills = { damage = 10 toughness = 4 }
+		forest = { toughness = 4 screen = 4 }
+		taiga = { toughness = 4 screen = 4 }
+	}
+
+	counters = {
+		skirmishers = 1
+	}
+
+	buy_cost = { gold = 264 }
+	low_maintenance_cost = { gold = 5.88 }
+	high_maintenance_cost = { gold = 7.64 }
+	
+	mercenary_fallback = yes
+	holy_order_fallback = yes
+	
+	stack = 330
+	ai_quality = { value = culture_ai_weight_archers }
+	icon = archers
+}
+machine_gun = {
+	type = archers
+	
+	damage = 430
+	toughness = 10
+	pursuit = 0
+	screen = 0
+	
+	terrain_bonus = {
+		hills = { damage = 10 toughness = 4 }
+		forest = { toughness = 4 screen = 4 }
+		taiga = { toughness = 4 screen = 4 }
+	}
+
+	counters = {
+		skirmishers = 1
+	}
+
+	buy_cost = { gold = 432 }
+	low_maintenance_cost = { gold = 7.44 }
+	high_maintenance_cost = { gold = 10.32 }
+	
+	mercenary_fallback = yes
+	holy_order_fallback = yes
+	
+	stack = 540
+	ai_quality = { value = culture_ai_weight_archers }
+	icon = archers
+}

@@ -1,0 +1,338 @@
+﻿d_nassau = {
+	1702.3.19 = { holder = owd2214 }
+	1711.9.1 = { holder = owd2213 }
+	1751.10.22 = { holder = owd2212 }
+	1806.4.9 = { holder = owd2211 }
+	1839.8.30 = { holder = owd2239 }
+	1866.9.20 = { holder = 0 }
+}
+d_mainz = {
+	2013.1.16 = {
+		government = feudal_government
+		liege = e_germany
+		succession_laws = {
+			feudal_elective_succession_law
+			equal_law
+		}
+		holder = owd1044
+	}
+}
+c_isenburg = {
+	2013.1.16 = {
+		government = feudal_government
+		liege = e_germany
+		succession_laws = {
+			feudal_elective_succession_law
+			equal_law
+		}
+		holder = owd1044
+	}
+}
+c_sayn = {
+	2013.1.16 = {
+		government = feudal_government
+		liege = e_germany
+		succession_laws = {
+			feudal_elective_succession_law
+			equal_law
+		}
+		holder = owd1044
+	}
+}
+c_nassau = {
+	2013.1.16 = {
+		government = feudal_government
+		liege = e_germany
+		succession_laws = {
+			feudal_elective_succession_law
+			equal_law
+		}
+		holder = owd1044
+	}
+}
+c_zweibrucken = {
+	2013.1.16 = {
+		government = feudal_government
+		liege = e_germany
+		succession_laws = {
+			feudal_elective_succession_law
+			equal_law
+		}
+		holder = owd1044
+	}
+}
+c_bitburg = {
+	2013.1.16 = {
+		government = feudal_government
+		liege = e_germany
+		succession_laws = {
+			feudal_elective_succession_law
+			equal_law
+		}
+		holder = owd1044
+	}
+}
+c_gerolstein = {
+	2013.1.16 = {
+		government = feudal_government
+		liege = e_germany
+		succession_laws = {
+			feudal_elective_succession_law
+			equal_law
+		}
+		holder = owd1044
+	}
+}
+c_burg_rheinfels = {
+	2013.1.16 = {
+		government = feudal_government
+		liege = e_germany
+		succession_laws = {
+			feudal_elective_succession_law
+			equal_law
+		}
+		holder = owd1044
+	}
+}
+c_koblenz = {
+	2013.1.16 = {
+		government = feudal_government
+		liege = e_germany
+		succession_laws = {
+			feudal_elective_succession_law
+			equal_law
+		}
+		holder = owd1044
+	}
+}
+c_oberstein = {
+	2013.1.16 = {
+		government = feudal_government
+		liege = e_germany
+		succession_laws = {
+			feudal_elective_succession_law
+			equal_law
+		}
+		holder = owd1044
+	}
+}
+c_ottweiler = {
+	2013.1.16 = {
+		government = feudal_government
+		liege = e_germany
+		succession_laws = {
+			feudal_elective_succession_law
+			equal_law
+		}
+		holder = owd1044
+	}
+}
+c_simmern = {
+	2013.1.16 = {
+		government = feudal_government
+		liege = e_germany
+		succession_laws = {
+			feudal_elective_succession_law
+			equal_law
+		}
+		holder = owd1044
+	}
+}
+c_trier = {
+	2013.1.16 = {
+		government = feudal_government
+		liege = e_germany
+		succession_laws = {
+			feudal_elective_succession_law
+			equal_law
+		}
+		holder = owd1044
+	}
+}
+c_veldenz = {
+	2013.1.16 = {
+		government = feudal_government
+		liege = e_germany
+		succession_laws = {
+			feudal_elective_succession_law
+			equal_law
+		}
+		holder = owd1044
+	}
+}
+c_wittlich = {
+	2013.1.16 = {
+		government = feudal_government
+		liege = e_germany
+		succession_laws = {
+			feudal_elective_succession_law
+			equal_law
+		}
+		holder = owd1044
+	}
+}
+c_baden = {
+	2011.5.12 = {
+		government = feudal_government
+		liege = e_germany
+		succession_laws = {
+			feudal_elective_succession_law
+			equal_law
+		}
+		holder = owd1045
+	}
+}
+c_breisgau = {
+	2011.5.12 = {
+		government = feudal_government
+		liege = e_germany
+		succession_laws = {
+			feudal_elective_succession_law
+			equal_law
+		}
+		holder = owd1045
+	}
+}
+c_erzingen = {
+	2011.5.12 = {
+		government = feudal_government
+		liege = e_germany
+		succession_laws = {
+			feudal_elective_succession_law
+			equal_law
+		}
+		holder = owd1045
+	}
+}
+c_furstenberg = {
+	2011.5.12 = {
+		government = feudal_government
+		liege = e_germany
+		succession_laws = {
+			feudal_elective_succession_law
+			equal_law
+		}
+		holder = owd1045
+	}
+}
+c_konstanz = {
+	2011.5.12 = {
+		government = feudal_government
+		liege = e_germany
+		succession_laws = {
+			feudal_elective_succession_law
+			equal_law
+		}
+		holder = owd1045
+	}
+}
+c_offenburg = {
+	2011.5.12 = {
+		government = feudal_government
+		liege = e_germany
+		succession_laws = {
+			feudal_elective_succession_law
+			equal_law
+		}
+		holder = owd1045
+	}
+}
+c_sulz = {
+	2011.5.12 = {
+		government = feudal_government
+		liege = e_germany
+		succession_laws = {
+			feudal_elective_succession_law
+			equal_law
+		}
+		holder = owd1045
+	}
+}
+c_zollern = {
+	2011.5.12 = {
+		government = feudal_government
+		liege = e_germany
+		succession_laws = {
+			feudal_elective_succession_law
+			equal_law
+		}
+		holder = owd1045
+	}
+}
+c_lindau = {
+	2011.5.12 = {
+		government = feudal_government
+		liege = e_germany
+		succession_laws = {
+			feudal_elective_succession_law
+			equal_law
+		}
+		holder = owd1045
+	}
+}
+c_biberach = {
+	2011.5.12 = {
+		government = feudal_government
+		liege = e_germany
+		succession_laws = {
+			feudal_elective_succession_law
+			equal_law
+		}
+		holder = owd1045
+	}
+}
+c_calw = {
+	2011.5.12 = {
+		government = feudal_government
+		liege = e_germany
+		succession_laws = {
+			feudal_elective_succession_law
+			equal_law
+		}
+		holder = owd1045
+	}
+}
+c_munsingen = {
+	2011.5.12 = {
+		government = feudal_government
+		liege = e_germany
+		succession_laws = {
+			feudal_elective_succession_law
+			equal_law
+		}
+		holder = owd1045
+	}
+}
+c_ravensburg = {
+	2011.5.12 = {
+		government = feudal_government
+		liege = e_germany
+		succession_laws = {
+			feudal_elective_succession_law
+			equal_law
+		}
+		holder = owd1045
+	}
+}
+c_tubingen = {
+	2011.5.12 = {
+		government = feudal_government
+		liege = e_germany
+		succession_laws = {
+			feudal_elective_succession_law
+			equal_law
+		}
+		holder = owd1045
+	}
+}
+c_ulm = {
+	2011.5.12 = {
+		government = feudal_government
+		liege = e_germany
+		succession_laws = {
+			feudal_elective_succession_law
+			equal_law
+		}
+		holder = owd1045
+	}
+}

@@ -1,0 +1,9 @@
+﻿bm_100_millenium_dawn = {
+	start_date = 100.1.1
+	is_playable = yes
+}
+bm_2022_millenium_dawn = {
+	start_date = 2022.2.24
+	is_playable = yes
+	recommended = yes
+}

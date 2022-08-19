@@ -1,0 +1,36 @@
+#
+798 = {
+	culture = south_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+13434 = {
+	culture = south_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+2214 = {
+	culture = south_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+12759 = {
+	culture = south_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+6711 = {
+	culture = albanian
+	religion = orthodox
+	holding = castle_holding
+}
+7310 = {
+	culture = south_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+2394 = {
+	culture = south_slavic
+	religion = orthodox
+	holding = castle_holding
+}

@@ -1,0 +1,20 @@
+k_poland = {
+	1587.8.19 = { holder = owd2087 }
+	1918.11.1 = { succession_laws = { equal_law } }
+	1922.12.11 = {
+		government = feudal_government
+		succession_laws = { feudal_elective_succession_law }
+	}
+	#2004.5.1 = {
+	#	effect = {
+	#		holder = { 
+	#			#set_court_language = language_anglic
+	#			if = {
+	#				limit = { NOT = { knows_court_language_of = this } }
+	#				learn_court_language_of = this
+	#			}
+	#		}
+	#	}
+	#}
+	2015.8.6 = { holder = owd0042 }
+}

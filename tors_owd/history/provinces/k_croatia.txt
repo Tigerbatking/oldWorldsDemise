@@ -1,0 +1,221 @@
+#
+3522 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+8846 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+10127 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+7296 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+6995 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+3604 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+9539 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+7894 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+8707 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+5443 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+5599 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+10669 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+11243= {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+3936 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+11309 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+10900 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+13352 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+10343 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+6172 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+4026 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+10561 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+7908 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+10364 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+8275 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+14270 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+7307 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+11373 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+10910 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+4571 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+6512 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+8219 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+253 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+12195 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+10219 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+9066 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+6804 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+2497 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+4170 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+8226 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+5844 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+7799 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+9320 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+13656 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+9312 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}

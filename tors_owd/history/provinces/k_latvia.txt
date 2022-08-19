@@ -1,0 +1,141 @@
+#
+7891 = {
+	culture = baltic
+	religion = catholic
+	holding = castle_holding
+}
+8791 = {
+	culture = baltic
+	religion = catholic
+	holding = castle_holding
+}
+8282 = {
+	culture = baltic
+	religion = orthodox
+	holding = castle_holding
+}
+12911 = {
+	culture = baltic
+	religion = orthodox
+	holding = castle_holding
+}
+5342 = {
+	culture = baltic
+	religion = orthodox
+	holding = castle_holding
+}
+8039 = {
+	culture = baltic
+	religion = lutheran
+	holding = castle_holding
+}
+5019 = {
+	culture = baltic
+	religion = lutheran
+	holding = castle_holding
+}
+8015 = {
+	culture = baltic
+	religion = lutheran
+	holding = castle_holding
+}
+1103 = {
+	culture = baltic
+	religion = lutheran
+	holding = castle_holding
+}
+1377 = {
+	culture = baltic
+	religion = lutheran
+	holding = castle_holding
+}
+9176 = {
+	culture = baltic
+	religion = lutheran
+	holding = castle_holding
+}
+2531 = {
+	culture = baltic
+	religion = lutheran
+	holding = castle_holding
+}
+2170 = {
+	culture = baltic
+	religion = orthodox
+	holding = castle_holding
+}
+7301 = {
+	culture = baltic
+	religion = orthodox
+	holding = castle_holding
+}
+11740 = {
+	culture = baltic
+	religion = lutheran
+	holding = castle_holding
+}
+13677 = {
+	culture = baltic
+	religion = lutheran
+	holding = castle_holding
+}
+11018 = {
+	culture = baltic
+	religion = orthodox
+	holding = castle_holding
+}
+3710 = {
+	culture = baltic
+	religion = lutheran
+	holding = castle_holding
+}
+7671 = {
+	culture = baltic
+	religion = orthodox
+	holding = castle_holding
+}
+10699 = {
+	culture = baltic
+	religion = lutheran
+	holding = castle_holding
+}
+8002 = {
+	culture = finnish
+	religion = lutheran
+	holding = castle_holding
+}
+8938 = {
+	culture = baltic
+	religion = lutheran
+	holding = castle_holding
+}
+2911 = {
+	culture = baltic
+	religion = lutheran
+	holding = castle_holding
+}
+7215 = {
+	culture = baltic
+	religion = lutheran
+	holding = castle_holding
+}
+8789 = {
+	culture = baltic
+	religion = lutheran
+	holding = castle_holding
+}
+8133 = {
+	culture = finnish
+	religion = lutheran
+	holding = castle_holding
+}
+789 = {
+	culture = finnish
+	religion = lutheran
+	holding = castle_holding
+}
+9789 = {
+	culture = baltic
+	religion = lutheran
+	holding = castle_holding
+}

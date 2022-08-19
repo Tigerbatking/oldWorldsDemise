@@ -1,0 +1,25 @@
+﻿# standard costs
+@maa_buy_cost = 150
+@maa_low_maintenance_cost = 1.0
+@maa_high_maintenance_cost = 5.0
+
+giant_death_robot = {
+	type = gdr
+	
+	damage = 13000
+	toughness = 10000
+	pursuit = 12000
+	screen = 6000
+
+	buy_cost = { gold = 1200 }
+	low_maintenance_cost = { gold = 19 }
+	high_maintenance_cost = { gold = 27 }
+	
+	mercenary_fallback = yes
+	holy_order_fallback = yes
+	
+	stack = 1
+	ai_quality = { value = 1000 }
+	icon = skirmishers
+	allowed_in_hired_troops = no
+}

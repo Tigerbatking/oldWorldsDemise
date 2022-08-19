@@ -1,0 +1,21 @@
+#
+1253 = {
+	culture = east_slavic
+	religion = atheist
+	holding = castle_holding
+}
+12532 = {
+	culture = east_slavic
+	religion = atheist
+	holding = castle_holding
+}
+9396 = {
+	culture = east_slavic
+	religion = atheist
+	holding = castle_holding
+}
+8814 = {
+	culture = east_slavic
+	religion = atheist
+	holding = castle_holding
+}

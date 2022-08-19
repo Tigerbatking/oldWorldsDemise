@@ -1,0 +1,16 @@
+k_serbia = {
+	1945.1.1 = { succession_laws = { equal_law } }
+	1991.1.11 = {
+		government = feudal_government
+		succession_laws = { feudal_elective_succession_law }
+	}
+	2017.5.31 = { holder = owd0031 }
+}
+d_kosovo = {
+	1945.1.1 = { succession_laws = { equal_law } }
+	1992.1.25 = {
+		government = feudal_government
+		succession_laws = { feudal_elective_succession_law }
+	}
+	2021.4.4 = { holder = owd0030 }
+}

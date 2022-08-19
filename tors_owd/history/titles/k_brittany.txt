@@ -1,0 +1,112 @@
+k_brittany = {
+	2017.6.22 = {
+		government = feudal_government
+		liege = e_france
+		succession_laws = {
+			feudal_elective_succession_law
+			equal_law
+		}
+		holder = owd1075
+	}
+}
+d_cotes-darmor = {
+	2020.9.27 = {
+		government = feudal_government
+		liege = k_brittany
+		succession_laws = {
+			feudal_elective_succession_law
+			equal_law
+		}
+		holder = owd1091
+	}
+}
+c_carhaix = {
+	2020.9.27 = { holder = owd1091 }
+}
+c_dinan = {
+	2020.9.27 = { holder = owd1091 }
+}
+c_goelo = {
+	2020.9.27 = { holder = owd1091 }
+}
+c_penthievre = {
+	2020.9.27 = { holder = owd1091 }
+}
+c_tregor = {
+	2020.9.27 = { holder = owd1091 }
+}
+d_finistere = {
+	2020.9.27 = {
+		government = feudal_government
+		liege = k_brittany
+		succession_laws = {
+			feudal_elective_succession_law
+			equal_law
+		}
+		holder = owd1092
+	}
+}
+c_brest = {
+	2020.9.27 = { holder = owd1092 }
+}
+c_quimper = {
+	2020.9.27 = { holder = owd1092 }
+}
+c_saint_pol_de_leon = {
+	2020.9.27 = { holder = owd1092 }
+}
+d_ille-et-vilaine = {
+	2020.9.27 = {
+		government = feudal_government
+		liege = k_brittany
+		succession_laws = {
+			feudal_elective_succession_law
+			equal_law
+		}
+		holder = owd1093
+	}
+}
+c_combourg = {
+	2020.9.27 = { holder = owd1093 }
+}
+c_fougeres = {
+	2020.9.27 = { holder = owd1093 }
+}
+c_rennes = {
+	2017.6.22 = { holder = owd1075 }
+}
+c_saint_malo = {
+	2020.9.27 = { holder = owd1093 }
+}
+c_vitre = {
+	2020.9.27 = { holder = owd1093 }
+}
+d_morbihan = {
+	2020.9.27 = {
+		government = feudal_government
+		liege = k_brittany
+		succession_laws = {
+			feudal_elective_succession_law
+			equal_law
+		}
+		holder = owd1094
+	}
+}
+c_concarneau = {
+	2020.9.27 = { holder = owd1094 }
+}
+c_hennebont = {
+	2020.9.27 = { holder = owd1094 }
+}
+c_porhoet = {
+	2020.9.27 = { holder = owd1094 }
+}
+c_rochefort_en_terre = {
+	2020.9.27 = { holder = owd1094 }
+}
+c_rohan = {
+	2020.9.27 = { holder = owd1094 }
+}
+c_vannes = {
+	2020.9.27 = { holder = owd1094 }
+}

@@ -1,0 +1,14 @@
+﻿k_bosnia = {
+	1945.1.1 = { succession_laws = { equal_law } }
+	1996.10.13 = {
+		government = feudal_government
+		succession_laws = { feudal_elective_succession_law }
+	}
+
+	2018.11.20 = { holder = owd0037 }
+	2019.7.20 = { holder = owd0036 }
+	2020.3.20 = { holder = owd0035 }
+	2020.11.20 = { holder = owd0037 }
+	2021.7.20 = { holder = owd0036 }
+	2022.3.20 = { holder = owd0035 }
+}

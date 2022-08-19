@@ -1,0 +1,121 @@
+﻿# standard costs
+@maa_buy_cost = 150
+@maa_low_maintenance_cost = 1.0
+@maa_high_maintenance_cost = 5.0
+
+scout = {
+	type = skirmishers
+	
+	damage = 10
+	toughness = 13
+	pursuit = 2
+	screen = 3
+	
+	terrain_bonus = {
+		forest = { damage = 4 toughness = 6 }
+		taiga = { damage = 4 toughness = 6 }
+		jungle = { damage = 4 toughness = 6 }
+	}
+
+	counters = {
+		heavy_infantry = 1
+	}
+
+	buy_cost = { gold = 24 }
+	low_maintenance_cost = { gold = 0.08 }
+	high_maintenance_cost = { gold = 0.24  }
+	
+	mercenary_fallback = yes
+	holy_order_fallback = yes
+	
+	stack = 30
+	ai_quality = { value = culture_ai_weight_skirmishers }
+	icon = skirmishers
+}
+skirmisher = {
+	type = skirmishers
+	
+	damage = 10
+	toughness = 28
+	pursuit = 12
+	screen = 18
+	
+	terrain_bonus = {
+		forest = { damage = 4 toughness = 6 }
+		taiga = { damage = 4 toughness = 6 }
+		jungle = { damage = 4 toughness = 6 }
+	}
+
+	counters = {
+		heavy_infantry = 1
+	}
+
+	buy_cost = { gold = 120 }
+	low_maintenance_cost = { gold = 2.4 }
+	high_maintenance_cost = { gold = 3.2 }
+	
+	mercenary_fallback = yes
+	holy_order_fallback = yes
+	
+	stack = 150
+	ai_quality = { value = culture_ai_weight_skirmishers }
+	icon = skirmishers
+}
+ranger = {
+	type = skirmishers
+	
+	damage = 10
+	toughness = 55
+	pursuit = 30
+	screen = 45
+	
+	terrain_bonus = {
+		forest = { damage = 4 toughness = 6 }
+		taiga = { damage = 4 toughness = 6 }
+		jungle = { damage = 4 toughness = 6 }
+	}
+
+	counters = {
+		heavy_infantry = 1
+	}
+
+	buy_cost = { gold = 304 }
+	low_maintenance_cost = { gold = 6.01 }
+	high_maintenance_cost = { gold = 8.04 }
+	
+	mercenary_fallback = yes
+	holy_order_fallback = yes
+	
+	stack = 380
+	ai_quality = { value = culture_ai_weight_skirmishers }
+	icon = skirmishers
+}
+spec_ops= {
+	type = skirmishers
+	
+	damage = 10
+	toughness = 94
+	pursuit = 56
+	screen = 84
+	
+	terrain_bonus = {
+		forest = { damage = 4 toughness = 6 }
+		taiga = { damage = 4 toughness = 6 }
+		jungle = { damage = 4 toughness = 6 }
+	}
+
+	counters = {
+		heavy_infantry = 1
+	}
+
+	buy_cost = { gold = 416 }
+	low_maintenance_cost = { gold = 8.39 }
+	high_maintenance_cost = { gold = 11.16 }
+	
+	mercenary_fallback = yes
+	holy_order_fallback = yes
+	
+	stack = 520
+	ai_quality = { value = culture_ai_weight_skirmishers }
+	icon = skirmishers
+}

@@ -1,0 +1,201 @@
+#
+10107 = {
+	culture = norse
+	religion = lutheran
+	holding = castle_holding
+}
+4585 = {
+	culture = norse
+	religion = lutheran
+	holding = castle_holding
+}
+4899 = {
+	culture = norse
+	religion = lutheran
+	holding = castle_holding
+}
+11726 = {
+	culture = norse
+	religion = lutheran
+	holding = castle_holding
+}
+10492 = {
+	culture = norse
+	religion = lutheran
+	holding = castle_holding
+}
+1764 = {
+	culture = norse
+	religion = lutheran
+	holding = castle_holding
+}
+9889 = {
+	culture = norse
+	religion = lutheran
+	holding = castle_holding
+}
+8585 = {
+	culture = norse
+	religion = lutheran
+	holding = castle_holding
+}
+9886 = {
+	culture = norse
+	religion = lutheran
+	holding = castle_holding
+}
+12746 = {
+	culture = norse
+	religion = lutheran
+	holding = castle_holding
+}
+12405 = {
+	culture = norse
+	religion = lutheran
+	holding = castle_holding
+}
+4230 = {
+	culture = norse
+	religion = lutheran
+	holding = castle_holding
+}
+3872 = {
+	culture = norse
+	religion = lutheran
+	holding = castle_holding
+}
+11374 = {
+	culture = norse
+	religion = lutheran
+	holding = castle_holding
+}
+8815 = {
+	culture = norse
+	religion = lutheran
+	holding = castle_holding
+}
+13416 = {
+	culture = norse
+	religion = lutheran
+	holding = castle_holding
+}
+5105 = {
+	culture = norse
+	religion = lutheran
+	holding = castle_holding
+}
+14051 = {
+	culture = norse
+	religion = lutheran
+	holding = castle_holding
+}
+8263 = {
+	culture = norse
+	religion = lutheran
+	holding = castle_holding
+}
+6478 = {
+	culture = norse
+	religion = lutheran
+	holding = castle_holding
+	1.1.1 = {
+		buildings = {
+			lysefjord_natural_wonder
+		}
+	}
+}
+3812 = {
+	culture = norse
+	religion = lutheran
+	holding = castle_holding
+}
+5894 = {
+	culture = norse
+	religion = lutheran
+	holding = castle_holding
+}
+6707 = {
+	culture = norse
+	religion = lutheran
+	holding = castle_holding
+}
+8016 = {
+	culture = norse
+	religion = lutheran
+	holding = castle_holding
+}
+13348 = {
+	culture = norse
+	religion = lutheran
+	holding = castle_holding
+}
+8589 = {
+	culture = norse
+	religion = lutheran
+	holding = castle_holding
+}
+2894 = {
+	culture = norse
+	religion = lutheran
+	holding = castle_holding
+}
+10728 = {
+	culture = norse
+	religion = lutheran
+	holding = castle_holding
+}
+6164 = {
+	culture = norse
+	religion = lutheran
+	holding = castle_holding
+}
+10597 = {
+	culture = norse
+	religion = lutheran
+	holding = castle_holding
+}
+4936 = {
+	culture = norse
+	religion = lutheran
+	holding = castle_holding
+}
+6463 = {
+	culture = norse
+	religion = lutheran
+	holding = castle_holding
+}
+1685 = {
+	culture = norse
+	religion = lutheran
+	holding = castle_holding
+}
+8262 = {
+	culture = norse
+	religion = lutheran
+	holding = castle_holding
+}
+11822 = {
+	culture = norse
+	religion = lutheran
+	holding = castle_holding
+}
+12422 = {
+	culture = norse
+	religion = lutheran
+	holding = castle_holding
+}
+4936 = {
+	culture = norse
+	religion = lutheran
+	holding = castle_holding
+}
+7240 = {
+	culture = norse
+	religion = lutheran
+	holding = castle_holding
+}
+8625 = {
+	culture = sami
+	religion = lutheran
+	holding = castle_holding
+}

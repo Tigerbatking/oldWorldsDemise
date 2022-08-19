@@ -1,0 +1,31 @@
+k_france = {
+	458.1.1 = { holder = owd2360 }
+	509.1.1 = { holder = owd2359 }
+	558.1.1 = { holder = owd2358 }
+	561.11.29 = { holder = owd2357 }
+	922.6.29 = { holder = owd2346 }
+	987.7.3 = { holder = owd2345 }
+	996.10.24 = { holder = owd2344 }
+	1031.7.20 = { holder = owd2343 }
+	1060.8.4 = { holder = owd2342 }
+	1108.7.29 = { holder = owd2341 }
+	1137.8.1 = { holder = owd2340 }
+	1180.9.18 = { holder = owd2339 }
+	1223.7.14 = { holder = owd2338 }
+	1226.11.8 = { holder = owd2337 }
+	1589.8.2 = { holder = owd2327 }
+	1610.5.14 = { holder = owd2326 }
+	1643.5.14 = { holder = owd2325 }
+	2015.12.18 = {
+		government = feudal_government
+		liege = e_france
+		succession_laws = {
+			feudal_elective_succession_law
+			equal_law
+		}
+		holder = owd1079
+	}
+}
+c_paris = {
+	2017.5.14 = { holder = owd0013 }
+}

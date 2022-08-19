@@ -1,0 +1,11 @@
+#
+12531 = {
+	culture = german
+	religion = catholic
+	holding = castle_holding
+}
+6861 = {
+	culture = german
+	religion = catholic
+	holding = castle_holding
+}

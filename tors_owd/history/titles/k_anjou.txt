@@ -1,0 +1,11 @@
+k_anjou = {
+	2017.10.19 = {
+		government = feudal_government
+		liege = e_france
+		succession_laws = {
+			feudal_elective_succession_law
+			equal_law
+		}
+		holder = owd1085
+	}
+}

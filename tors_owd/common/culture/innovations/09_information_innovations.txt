@@ -1,0 +1,171 @@
+﻿#### Local Types ####
+@administration_1 = "gfx/interface/icons/culture_innovations/innovation_administration_01.dds"
+@administration_2 = "gfx/interface/icons/culture_innovations/innovation_administration_02.dds"
+@administration_3 = "gfx/interface/icons/culture_innovations/innovation_administration_03.dds"
+@civil_construction_1 = "gfx/interface/icons/culture_innovations/innovation_civil_construction_01.dds"
+@civil_construction_2 = "gfx/interface/icons/culture_innovations/innovation_civil_construction_02.dds"
+@leadership_1 = "gfx/interface/icons/culture_innovations/innovation_leadership_01.dds"
+@leadership_2 = "gfx/interface/icons/culture_innovations/innovation_leadership_02.dds"
+@raised_banner = "gfx/interface/icons/culture_innovations/innovation_raised_banner.dds"
+@fortifications = "gfx/interface/icons/culture_innovations/innovation_fortifications.dds"
+@siege_weapons = "gfx/interface/icons/culture_innovations/innovation_siege_weapons.dds"
+@levy_building = "gfx/interface/icons/culture_innovations/innovation_levy_building.dds"
+@maa_01 = "gfx/interface/icons/culture_innovations/innovation_maa_01.dds"
+@maa_02 = "gfx/interface/icons/culture_innovations/innovation_maa_02.dds"
+@weapons_and_armor_01 = "gfx/interface/icons/culture_innovations/innovation_weapons_and_armor_01.dds"
+@weapons_and_armor_02 = "gfx/interface/icons/culture_innovations/innovation_weapons_and_armor_02.dds"
+@knight = "gfx/interface/icons/culture_innovations/innovation_knight.dds"
+@hird = "gfx/interface/icons/culture_innovations/innovation_hird.dds"
+@longboats = "gfx/interface/icons/culture_innovations/innovation_longboats.dds"
+@majesty_01 = "gfx/interface/icons/culture_innovations/innovation_majesty_01.dds"
+@majesty_02 = "gfx/interface/icons/culture_innovations/innovation_majesty_02.dds"
+@majesty_03 = "gfx/interface/icons/culture_innovations/innovation_majesty_03.dds"
+@nobility_01 = "gfx/interface/icons/culture_innovations/innovation_nobility_01.dds"
+@nobility_02 = "gfx/interface/icons/culture_innovations/innovation_nobility_02.dds"
+@nobility_03 = "gfx/interface/icons/culture_innovations/innovation_nobility_03.dds"
+@nobility_04 = "gfx/interface/icons/culture_innovations/innovation_nobility_04.dds"
+@misc_inventions = "gfx/interface/icons/culture_innovations/innovation_misc_inventions.dds"
+
+@camel = "gfx/interface/icons/culture_innovations/innovation_camel.dds"
+@elephant = "gfx/interface/icons/culture_innovations/innovation_elephant.dds"
+@special_maa_01 = "gfx/interface/icons/culture_innovations/innovation_special_maa_01.dds"
+@special_maa_02 = "gfx/interface/icons/culture_innovations/innovation_special_maa_02.dds"
+
+
+# Science
+innovation_telecommunications = {
+	group = culture_group_military
+	culture_era = culture_era_information
+	icon = @nobility_01
+	
+	modifier = {
+		men_at_arms_cap = 1
+	}
+}
+innovation_satellites = {
+	group = culture_group_military
+	culture_era = culture_era_information
+	icon = @misc_inventions
+	
+	custom = unlock_information_fortification_buildings
+	unlock_maa = mechanized_infantry
+}
+innovation_guidance_systems = {
+	group = culture_group_military
+	culture_era = culture_era_information
+	icon = @siege_weapons
+	
+	unlock_maa = rocket_artillery
+}
+innovation_lasers = {
+	group = culture_group_military
+	culture_era = culture_era_information
+	icon = @majesty_02
+	
+	modifier = {
+		men_at_arms_cap = 1
+	}
+}
+innovation_composites = {
+	group = culture_group_military
+	culture_era = culture_era_information
+	icon = @civil_construction_1
+	
+	unlock_maa = modern_at
+	unlock_maa = modern_armour
+}
+innovation_stealth_technology = {
+	group = culture_group_military
+	culture_era = culture_era_information
+	icon = @levy_building
+	
+	custom = unlock_information_military_buildings
+}
+innovation_robotics = {
+	group = culture_group_military
+	culture_era = culture_era_information
+	icon = @administration_3
+	
+	unlock_maa = giant_death_robot
+}
+innovation_nuclear_fusion = {
+	group = culture_group_military
+	culture_era = culture_era_information
+	icon = @misc_inventions
+	
+	modifier = {
+		men_at_arms_cap = 1
+	}
+}
+innovation_nanotechnology = {
+	group = culture_group_military
+	culture_era = culture_era_information
+	icon = @majesty_03
+	
+	modifier = {
+		men_at_arms_cap = 1
+	}
+}
+
+##Civics
+innovation_environmentalism = {
+	group = culture_group_civic
+	culture_era = culture_era_information
+	icon = @misc_inventions
+
+	modifier = {
+		health = 0.01
+	}
+}
+innovation_globalisation = {
+	group = culture_group_civic
+	culture_era = culture_era_information
+	icon = @misc_inventions
+	
+	custom = unlock_information_economic_buildings
+}
+innovation_social_media = {
+	group = culture_group_civic
+	culture_era = culture_era_information
+	icon = @misc_inventions
+
+	modifier = {
+		health = 0.01
+	}
+}
+innovation_near_future_governance = {
+	group = culture_group_civic
+	culture_era = culture_era_information
+	icon = @misc_inventions
+
+	modifier = {
+		health = 0.01
+	}
+}
+innovation_venture_politics = {
+	group = culture_group_civic
+	culture_era = culture_era_information
+	icon = @misc_inventions
+
+	modifier = {
+		health = 0.01
+	}
+}
+innovation_distributed_sovereignty = {
+	group = culture_group_civic
+	culture_era = culture_era_information
+	icon = @misc_inventions
+
+	modifier = {
+		health = 0.01
+	}
+}
+innovation_optimisation_imperative = {
+	group = culture_group_civic
+	culture_era = culture_era_information
+	icon = @misc_inventions
+
+	modifier = {
+		health = 0.01
+	}
+}

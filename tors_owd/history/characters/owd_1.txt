@@ -1,0 +1,1058 @@
+owd1000 {
+	name = "Anders"
+	religion = protestant
+	culture = norse
+
+	1957.10.4 = {
+		birth = yes
+	}
+}
+owd1001 {
+	name = "Lotta"
+	female = yes
+	religion = protestant
+	culture = norse
+
+	1958.12.4 = {
+		birth = yes
+	}
+}
+owd1002 {
+	name = "Helene"
+	female = yes
+	religion = protestant
+	culture = norse
+
+	1969.9.12 = {
+		birth = yes
+	}
+}
+owd1003 {
+	name = "Sven-Erik"
+	religion = protestant
+	culture = norse
+
+	1955.3.10 = {
+		birth = yes
+	}
+}
+owd1004 {
+	name = "GO_ran"
+	religion = protestant
+	culture = norse
+
+	1955.9.1 = {
+		birth = yes
+	}
+}
+owd1005 {
+	name = "Beatrice"
+	female = yes
+	religion = protestant
+	culture = norse
+
+	1956.4.20 = {
+		birth = yes
+	}
+}
+owd1006 {
+	name = "Carl Fredrik"
+	religion = protestant
+	culture = norse
+
+	1959.8.6 = {
+		birth = yes
+	}
+}
+owd1007 {
+	name = "Helena"
+	female = yes
+	religion = protestant
+	culture = norse
+
+	1956.8.18 = {
+		birth = yes
+	}
+}
+owd1008 {
+	name = "Maria"
+	female = yes
+	religion = protestant
+	culture = norse
+
+	1958.3.16 = {
+		birth = yes
+	}
+}
+owd1009 {
+	name = "Peter"
+	religion = protestant
+	culture = norse
+
+	1963.7.25 = {
+		birth = yes
+	}
+}
+owd1010 {
+	name = "Ulrica"
+	female = yes
+	religion = protestant
+	culture = norse
+
+	1968.1.31 = {
+		birth = yes
+	}
+}
+owd1011 {
+	name = "Anneli"
+	female = yes
+	religion = protestant
+	culture = norse
+
+	1960.7.27 = {
+		birth = yes
+	}
+}
+owd1012 {
+	name = "Brittis"
+	female = yes
+	religion = protestant
+	culture = norse
+
+	1958.12.12 = {
+		birth = yes
+	}
+}
+owd1013 {
+	name = "Lisbeth"
+	female = yes
+	religion = protestant
+	culture = norse
+
+	1960.1.1 = { ##?
+		birth = yes
+	}
+}
+owd1014 {
+	name = "Georg"
+	religion = protestant
+	culture = norse
+
+	1960.2.27 = {
+		birth = yes
+	}
+}
+owd1015 {
+	name = "Maria"
+	female = yes
+	religion = protestant
+	culture = norse
+
+	1956.1.20 = {
+		birth = yes
+	}
+}
+owd1016 {
+	name = "Ulrica"
+	female = yes
+	religion = protestant
+	culture = norse
+
+	1961.5.22 = {
+		birth = yes
+	}
+}
+owd1017 {
+	name = "Camilla"
+	female = yes
+	religion = protestant
+	culture = norse
+
+	1970.1.1 = { ##??
+		birth = yes
+	}
+}
+owd1018 {
+	name = "Per"
+	religion = protestant
+	culture = norse
+
+	1958.2.13 = {
+		birth = yes
+	}
+}
+owd1019 {
+	name = "Berit"
+	female = yes
+	religion = protestant
+	culture = norse
+
+	1958.1.1 = { #?
+		birth = yes
+	}
+}
+owd1020 {
+	name = "Marita"
+	female = yes
+	religion = protestant
+	culture = norse
+
+	1962.9.9 = {
+		birth = yes
+	}
+}
+owd1021 {
+	name = "Bent"
+	religion = protestant
+	culture = norse
+
+	1971.5.4 = {
+		birth = yes
+	}
+}
+owd1022 {
+	name = "Else-May"
+	female = yes
+	religion = protestant
+	culture = norse
+
+	1973.8.16 = {
+		birth = yes
+	}
+}
+owd1023 {
+	name = "Tom Cato"
+	religion = protestant
+	culture = norse
+
+	1974.6.24 = {
+		birth = yes
+	}
+}
+owd1024 {
+	name = "Valgerd Svarstad"
+	female = yes
+	religion = protestant
+	culture = norse
+
+	1956.8.23 = {
+		birth = yes
+	}
+}
+owd1025 {
+	name = "Knut"
+	religion = protestant
+	culture = norse
+
+	1964.10.6 = {
+		birth = yes
+	}
+}
+owd1026 {
+	name = "Per Arne"
+	religion = protestant
+	culture = norse
+
+	1961.2.21 = {
+		birth = yes
+	}
+}
+owd1027 {
+	name = "Stein Arve"
+	religion = protestant
+	culture = norse
+
+	1951.10.4 = {
+		birth = yes
+	}
+}
+owd1028 {
+	name = "Lars"
+	religion = protestant
+	culture = norse
+
+	1957.5.23 = {
+		birth = yes
+	}
+}
+owd1029 {
+	name = "Frank"
+	religion = protestant
+	culture = norse
+
+	1969.8.11 = {
+		birth = yes
+	}
+}
+owd1030 {
+	name = "Elisabeth"
+	female = yes
+	religion = protestant
+	culture = norse
+
+	1962.10.16 = {
+		birth = yes
+	}
+}
+owd1031 {
+	name = "MU_te"
+	religion = protestant
+	culture = inuit
+
+	1987.3.11 = {
+		birth = yes
+	}
+}
+owd1032 {
+	name = "BA_rD_ur"
+	religion = protestant
+	culture = norse
+
+	1972.4.16 = {
+		birth = yes
+	}
+}
+owd1033 {
+	name = "Lars"
+	religion = protestant
+	culture = norse
+
+	1974.5.1 = {
+		birth = yes
+	}
+}
+owd1034 {
+	name = "Anders"
+	religion = protestant
+	culture = norse
+
+	1981.8.12 = {
+		birth = yes
+	}
+}
+owd1035 {
+	name = "Mads"
+	religion = protestant
+	culture = norse
+
+	1984.8.14 = {
+		birth = yes
+	}
+}
+owd1036 {
+	name = "Heino"
+	religion = protestant
+	culture = norse
+
+	1979.10.24 = {
+		birth = yes
+	}
+}
+owd1037 {
+	name = "Stephanie"
+	female = yes
+	religion = protestant
+	culture = norse
+
+	1982.12.14 = {
+		birth = yes
+	}
+}
+owd1038 {
+	name = "Daniel"
+	religion = protestant
+	culture = german
+
+	1973.7.24 = {
+		birth = yes
+	}
+}
+owd1039 {
+	name = "Peter"
+	religion = protestant
+	culture = german
+
+	1966.1.20 = {
+		birth = yes
+	}
+}
+owd1040 {
+	name = "Andreas"
+	religion = protestant
+	culture = german
+
+	1965.8.11 = {
+		birth = yes
+	}
+}
+owd1041 {
+	name = "Stephan"
+	religion = protestant
+	culture = german
+
+	1958.12.15 = {
+		birth = yes
+	}
+}
+owd1042 {
+	name = "Hendrik"
+	religion = protestant
+	culture = german
+
+	1975.7.19 = {
+		birth = yes
+	}
+}
+owd1043 {
+	name = "Tobias"
+	religion = catholic
+	culture = german
+
+	1978.2.1 = {
+		birth = yes
+	}
+}
+owd1044 {
+	name = "Malu"
+	female = yes
+	religion = catholic
+	culture = german
+
+	1961.2.6 = {
+		birth = yes
+	}
+}
+owd1045 {
+	name = "Winfried"
+	religion = catholic
+	culture = german
+
+	1948.5.17 = {
+		birth = yes
+	}
+}
+owd1046 {
+	name = "Volker"
+	religion = protestant
+	culture = german
+
+	1951.12.18 = {
+		birth = yes
+	}
+}
+owd1047 {
+	name = "Markus"
+	religion = catholic
+	culture = german
+
+	1967.1.5 = {
+		birth = yes
+	}
+}
+owd1048 {
+	name = "Manuela"
+	female = yes
+	religion = protestant
+	culture = german
+
+	1974.5.23 = {
+		birth = yes
+	}
+}
+owd1049 {
+	name = "Bodo"
+	religion = protestant
+	culture = german
+
+	1956.2.16 = {
+		birth = yes
+	}
+}
+owd1050 {
+	name = "Michael"
+	religion = protestant
+	culture = german
+
+	1975.5.7 = {
+		birth = yes
+	}
+}
+owd1051 {
+	name = "Reiner"
+	religion = protestant
+	culture = german
+
+	1954.2.19 = {
+		birth = yes
+	}
+}
+owd1052 {
+	name = "Dietmar"
+	religion = protestant
+	culture = german
+
+	1961.10.22 = {
+		birth = yes
+	}
+}
+owd1053 {
+	name = "Jellejetta"
+	female = yes
+	religion = protestant
+	culture = german
+
+	1957.3.18 = {
+		birth = yes
+	}
+}
+owd1054 {
+	name = "Leen"
+	religion = protestant
+	culture = german
+
+	1954.3.5 = {
+		birth = yes
+	}
+}
+owd1055 {
+	name = "Arno"
+	religion = protestant
+	culture = german
+
+	1968.7.29 = {
+		birth = yes
+	}
+}
+owd1056 {
+	name = "John"
+	religion = protestant
+	culture = german
+
+	1956.1.1 = {
+		birth = yes
+	}
+}
+owd1057 {
+	name = "RenE_"
+	religion = protestant
+	culture = german
+
+	1966.9.16 = {
+		birth = yes
+	}
+}
+owd1058 {
+	name = "Emile"
+	religion = protestant
+	culture = german
+
+	1962.8.24 = {
+		birth = yes
+	}
+}
+owd1059 {
+	name = "Ida"
+	female = yes
+	religion = protestant
+	culture = german
+
+	1968.1.1 = {
+		birth = yes
+	}
+}
+owd1060 {
+	name = "Arthur"
+	religion = protestant
+	culture = german
+
+	1963.1.1 = {
+		birth = yes
+	}
+}
+owd1061 {
+	name = "Andries"
+	religion = protestant
+	culture = german
+
+	1962.1.1 = {
+		birth = yes
+	}
+}
+owd1062 {
+	name = "Jaap"
+	religion = protestant
+	culture = german
+
+	1957.3.8 = {
+		birth = yes
+	}
+}
+owd1063 {
+	name = "Hans"
+	religion = protestant
+	culture = german
+
+	1962.1.1 = {
+		birth = yes
+	}
+}
+owd1064 {
+	name = "Cathy"
+	female = yes
+	religion = catholic
+	culture = german
+
+	1969.1.8 = {
+		birth = yes
+	}
+}
+owd1065 {
+	name = "Carina"
+	female = yes
+	religion = catholic
+	culture = german
+
+	1962.6.27 = {
+		birth = yes
+	}
+}
+owd1066 {
+	name = "Jan"
+	religion = catholic
+	culture = german
+
+	1969.1.12 = {
+		birth = yes
+	}
+}
+owd1067 {
+	name = "Jos"
+	religion = catholic
+	culture = german
+
+	1964.3.30 = {
+		birth = yes
+	}
+}
+owd1068 {
+	name = "Carl"
+	religion = catholic
+	culture = german
+
+	1960.9.18 = {
+		birth = yes
+	}
+}
+owd1069 {
+	name = "Tommy"
+	religion = catholic
+	culture = west_romance
+
+	1970.1.1 = {
+		birth = yes
+	}
+}
+owd1070 {
+	name = "HervE_"
+	religion = catholic
+	culture = west_romance
+
+	1970.1.1 = {
+		birth = yes
+	}
+}
+owd1071 {
+	name = "Olivier"
+	religion = catholic
+	culture = west_romance
+
+	1966.11.1 = {
+		birth = yes
+	}
+}
+owd1072 {
+	name = "Gilles"
+	religion = catholic
+	culture = west_romance
+
+	1964.8.12 = {
+		birth = yes
+	}
+}
+owd1073 {
+	name = "Alain"
+	religion = catholic
+	culture = west_romance
+
+	1951.2.16 = {
+		birth = yes
+	}
+}
+owd1074 {
+	name = "Renaud"
+	religion = catholic
+	culture = west_romance
+
+	1959.5.6 = {
+		birth = yes
+	}
+}
+owd1075 {
+	name = "LoI_g"
+	religion = catholic
+	culture = brythonic
+
+	1977.3.25 = {
+		birth = yes
+	}
+}
+owd1076 {
+	name = "Marie-Marguerite"
+	female = yes
+	religion = catholic
+	culture = west_romance
+
+	1949.5.21 = {
+		birth = yes
+	}
+}
+owd1077 {
+	name = "FranC_ois"
+	religion = catholic
+	culture = west_romance
+
+	1953.10.12 = {
+		birth = yes
+	}
+}
+owd1078 {
+	name = "Gilles"
+	religion = catholic
+	culture = italian
+
+	1967.4.20 = {
+		birth = yes
+	}
+}
+owd1079 {
+	name = "ValE_rie"
+	female = yes
+	religion = catholic
+	culture = west_romance
+
+	1967.7.14 = {
+		birth = yes
+	}
+}
+owd1080 {
+	name = "Jean"
+	religion = catholic
+	culture = german
+
+	1967.1.28 = {
+		birth = yes
+	}
+}
+owd1081 {
+	name = "Xavier"
+	religion = catholic
+	culture = west_romance
+
+	1965.3.21 = {
+		birth = yes
+	}
+}
+owd1082 {
+	name = "Laurent"
+	religion = catholic
+	culture = west_romance
+
+	1975.4.12 = {
+		birth = yes
+	}
+}
+owd1083 {
+	name = "HervE_"
+	religion = catholic
+	culture = west_romance
+
+	1961.8.17 = {
+		birth = yes
+	}
+}
+owd1084 {
+	name = "Carole"
+	female = yes
+	religion = catholic
+	culture = west_romance
+
+	1971.8.19 = {
+		birth = yes
+	}
+}
+owd1085 {
+	name = "Christelle"
+	female = yes
+	religion = catholic
+	culture = west_romance
+
+	1975.1.28 = {
+		birth = yes
+	}
+}
+owd1086 {
+	name = "Denis"
+	religion = catholic
+	culture = west_romance
+
+	1965.10.29 = {
+		birth = yes
+	}
+}
+owd1087 {
+	name = "Han"
+	religion = protestant
+	culture = german
+
+	1963.1.16 = {
+		birth = yes
+	}
+}
+owd1088 {
+	name = "Juan"
+	religion = catholic
+	culture = west_romance
+
+	1970.5.1 = {
+		birth = yes
+	}
+}
+owd1089 {
+	name = "Javier"
+	religion = catholic
+	culture = west_romance
+
+	1957.8.19 = {
+		birth = yes
+	}
+}
+owd1090 {
+	name = "AdriA_n"
+	religion = catholic
+	culture = west_romance
+
+	1979.1.4 = {
+		birth = yes
+	}
+}
+owd1091 {
+	name = "Alain"
+	religion = catholic
+	culture = west_romance
+
+	1953.6.21 = {
+		birth = yes
+	}
+}
+owd1092 {
+	name = "MaE_l"
+	religion = catholic
+	culture = brythonic
+
+	1980.4.30 = {
+		birth = yes
+	}
+}
+owd1093 {
+	name = "Jean-Luc"
+	religion = catholic
+	culture = west_romance
+
+	1960.3.29 = {
+		birth = yes
+	}
+}
+owd1094 {
+	name = "FranC_ois"
+	religion = catholic
+	culture = west_romance
+
+	1953.9.21 = {
+		birth = yes
+	}
+}
+owd1095 {
+	name = "Jean-LE_once"
+	religion = catholic
+	culture = west_romance
+
+	1955.1.31 = {
+		birth = yes
+	}
+}
+owd1096 {
+	name = "SE_bastien"
+	religion = catholic
+	culture = west_romance
+
+	1986.6.11 = {
+		birth = yes
+	}
+}
+owd1097 {
+	name = "Marc"
+	religion = catholic
+	culture = west_romance
+
+	1950.7.18 = {
+		birth = yes
+	}
+}
+owd1098 {
+	name = "Alain"
+	religion = catholic
+	culture = west_romance
+
+	1946.7.20 = {
+		birth = yes
+	}
+}
+owd1099 {
+	name = "Pascal" # He is dead, but I don't care.
+	religion = catholic
+	culture = west_romance
+
+	1952.1.1 = {
+		birth = yes
+	}
+}
+owd1100 {
+	name = "Francina"
+	female = yes
+	religion = catholic
+	culture = west_romance
+
+	1971.8.11 = {
+		birth = yes
+	}
+}
+owd1101 {
+	name = "IN_igo"
+	religion = catholic
+	culture = basque
+
+	1961.9.18 = {
+		birth = yes
+	}
+}
+owd1102 {
+	name = "A_ngel"
+	religion = catholic
+	culture = west_romance
+
+	1966.3.30 = {
+		birth = yes
+	}
+}
+owd1103 {
+	name = "Miguel"
+	religion = catholic
+	culture = west_romance
+
+	1943.1.23 = {
+		birth = yes
+	}
+}
+owd1104 {
+	name = "Alfonso"
+	religion = catholic
+	culture = west_romance
+
+	1965.4.29 = {
+		birth = yes
+	}
+}
+owd1105 {
+	name = "Emiliano"
+	religion = catholic
+	culture = west_romance
+
+	1968.6.11 = {
+		birth = yes
+	}
+}
+owd1106 {
+	name = "Pere"
+	religion = catholic
+	culture = west_romance
+
+	1982.11.16 = {
+		birth = yes
+	}
+}
+owd1107 {
+	name = "Isabel"
+	female = yes
+	religion = catholic
+	culture = west_romance
+
+	1978.10.17 = {
+		birth = yes
+	}
+}
+owd1108 {
+	name = "Guillermo"
+	religion = catholic
+	culture = west_romance
+
+	1958.10.6 = {
+		birth = yes
+	}
+}
+owd1109 {
+	name = "Alfonso"
+	religion = catholic
+	culture = west_romance
+
+	1968.7.8 = {
+		birth = yes
+	}
+}
+owd1110 {
+	name = "Concha"
+	female = yes
+	religion = catholic
+	culture = west_romance
+
+	1967.3.10 = {
+		birth = yes
+	}
+}
+owd1111 {
+	name = "MarI_a"
+	female = yes
+	religion = catholic
+	culture = west_romance
+
+	1978.6.5 = {
+		birth = yes
+	}
+}
+owd1112 {
+	name = "Fernando"
+	religion = catholic
+	culture = west_romance
+
+	1983.10.4 = {
+		birth = yes
+	}
+}
+owd1113 {
+	name = "Ximo"
+	religion = catholic
+	culture = west_romance
+
+	1959.1.4 = {
+		birth = yes
+	}
+}

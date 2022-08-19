@@ -1,0 +1,126 @@
+#
+11968 = {
+	culture = finnish
+	religion = orthodox
+	holding = castle_holding
+}
+65 = {
+	culture = finnish
+	religion = orthodox
+	holding = castle_holding
+}
+6845 = {
+	culture = finnish
+	religion = orthodox
+	holding = castle_holding
+}
+11543 = {
+	culture = finnish
+	religion = orthodox
+	holding = castle_holding
+}
+10045 = {
+	culture = finnish
+	religion = orthodox
+	holding = castle_holding
+}
+7439 = {
+	culture = finnish
+	religion = orthodox
+	holding = castle_holding
+}
+3961 = {
+	culture = finnish
+	religion = orthodox
+	holding = castle_holding
+}
+3258 = {
+	culture = finnish
+	religion = orthodox
+	holding = castle_holding
+}
+6690 = {
+	culture = finnish
+	religion = orthodox
+	holding = castle_holding
+}
+6182 = {
+	culture = finnish
+	religion = orthodox
+	holding = castle_holding
+}
+18 = {
+	culture = finnish
+	religion = orthodox
+	holding = castle_holding
+}
+2985 = {
+	culture = finnish
+	religion = orthodox
+	holding = castle_holding
+}
+10680 = {
+	culture = finnish
+	religion = orthodox
+	holding = castle_holding
+}
+7457 = {
+	culture = finnish
+	religion = orthodox
+	holding = castle_holding
+}
+8362 = {
+	culture = finnish
+	religion = orthodox
+	holding = castle_holding
+}
+3015 = {
+	culture = finnish
+	religion = orthodox
+	holding = castle_holding
+}
+273 = {
+	culture = sami
+	religion = orthodox
+	holding = castle_holding
+}
+11714 = {
+	culture = sami
+	religion = orthodox
+	holding = castle_holding
+}
+12439 = {
+	culture = sami
+	religion = orthodox
+	holding = castle_holding
+}
+11284 = {
+	culture = sami
+	religion = orthodox
+	holding = castle_holding
+}
+1880 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+5107 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+12518 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+11555 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+6360 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}

@@ -1,0 +1,19 @@
+k_ottoman = {
+	1923.10.29 = {
+		government = feudal_government
+		succession_laws = { feudal_elective_succession_law }
+	}
+	1930.4.3 = { succession_laws = { equal_law } }
+	2014.8.28 = { holder = owd0026 }
+}
+d_north_cyprus = {
+	1930.4.3 = { succession_laws = { equal_law } }
+	1960.8.16 = {
+		government = feudal_government
+		succession_laws = { feudal_elective_succession_law }
+	}
+	2020.10.23 = { holder = owd0027 }
+}
+c_colobythinda = {
+	2020.10.23 = { holder = owd0027 }
+}

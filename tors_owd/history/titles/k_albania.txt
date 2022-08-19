@@ -1,0 +1,8 @@
+﻿k_albania = {
+	1945.1.1 = { succession_laws = { equal_law } }
+	1991.4.30 = {
+		government = feudal_government
+		succession_laws = { feudal_elective_succession_law }
+	}
+	2017.7.24 = { holder = owd0024 }
+}

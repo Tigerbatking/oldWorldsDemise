@@ -1,0 +1,31 @@
+#
+3939 = {
+	culture = armenian
+	religion = armenian_apostolic
+	holding = castle_holding
+}
+3213 = {
+	culture = armenian
+	religion = armenian_apostolic
+	holding = castle_holding
+}
+7696 = {
+	culture = armenian
+	religion = armenian_apostolic
+	holding = castle_holding
+}
+1009 = {
+	culture = armenian
+	religion = armenian_apostolic
+	holding = castle_holding
+}
+10246 = {
+	culture = armenian
+	religion = armenian_apostolic
+	holding = castle_holding
+}
+12235 = {
+	culture = armenian
+	religion = armenian_apostolic
+	holding = castle_holding
+}

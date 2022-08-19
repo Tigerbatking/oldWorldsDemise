@@ -1,0 +1,166 @@
+﻿# standard costs
+@maa_buy_cost = 150
+@maa_low_maintenance_cost = 1.0
+@maa_high_maintenance_cost = 5.0
+
+warrior = {
+	type = heavy_infantry
+	
+	damage = 18
+	toughness = 14
+	pursuit = 0
+	screen = 0
+	
+	counters = {
+		pikemen = 1
+	}
+	
+	buy_cost = { gold = 32 }
+	low_maintenance_cost = { gold = 0.11 }
+	high_maintenance_cost = { gold = 0.32 }
+	
+	mercenary_fallback = yes
+	holy_order_fallback = yes
+	
+	stack = 40
+	ai_quality = { value = culture_ai_weight_heavy_infantry }
+	icon = heavy_infantry
+}
+swordsman = {
+	type = heavy_infantry
+	
+	damage = 34
+	toughness = 22
+	pursuit = 0
+	screen = 0
+	
+	counters = {
+		pikemen = 1
+	}
+	
+	buy_cost = { gold = 72 }
+	low_maintenance_cost = { gold = 0.24 }
+	high_maintenance_cost = { gold = 0.72 }
+	
+	mercenary_fallback = yes
+	holy_order_fallback = yes
+	
+	stack = 90
+	ai_quality = { value = culture_ai_weight_heavy_infantry }
+	icon = heavy_infantry
+}
+man-at-arms = {
+	type = heavy_infantry
+	
+	damage = 58
+	toughness = 34
+	pursuit = 0
+	screen = 0
+	
+	counters = {
+		pikemen = 1
+	}
+	
+	buy_cost = { gold = 128 }
+	low_maintenance_cost = { gold = 0.43 }
+	high_maintenance_cost = { gold = 1.28 }
+	
+	mercenary_fallback = yes
+	holy_order_fallback = yes
+	
+	stack = 160
+	ai_quality = { value = culture_ai_weight_heavy_infantry }
+	icon = heavy_infantry
+}
+musketman = {
+	type = heavy_infantry
+	
+	damage = 90
+	toughness = 50
+	pursuit = 0
+	screen = 0
+	
+	counters = {
+		pikemen = 1
+	}
+	
+	buy_cost = { gold = 192 }
+	low_maintenance_cost = { gold = 0.64 }
+	high_maintenance_cost = { gold = 1.92 }
+	
+	mercenary_fallback = yes
+	holy_order_fallback = yes
+	
+	stack = 240
+	ai_quality = { value = culture_ai_weight_heavy_infantry }
+	icon = heavy_infantry
+}
+line_infantry = {
+	type = heavy_infantry
+	
+	damage = 130
+	toughness = 70
+	pursuit = 0
+	screen = 0
+	
+	counters = {
+		pikemen = 1
+	}
+	
+	buy_cost = { gold = 288 }
+	low_maintenance_cost = { gold = 0.96 }
+	high_maintenance_cost = { gold = 2.88 }
+	
+	mercenary_fallback = yes
+	holy_order_fallback = yes
+	
+	stack = 360
+	ai_quality = { value = culture_ai_weight_heavy_infantry }
+	icon = heavy_infantry
+}
+infantry = {
+	type = heavy_infantry
+	
+	damage = 178
+	toughness = 94
+	pursuit = 0
+	screen = 0
+	
+	counters = {
+		pikemen = 1
+	}
+	
+	buy_cost = { gold = 344 }
+	low_maintenance_cost = { gold = 1.15 }
+	high_maintenance_cost = { gold = 3.44 }
+	
+	mercenary_fallback = yes
+	holy_order_fallback = yes
+	
+	stack = 430
+	ai_quality = { value = culture_ai_weight_heavy_infantry }
+	icon = heavy_infantry
+}
+mechanized_infantry = {
+	type = heavy_infantry
+	
+	damage = 294
+	toughness = 154
+	pursuit = 0
+	screen = 0
+	
+	counters = {
+		pikemen = 1
+	}
+	
+	buy_cost = { gold = 520 }
+	low_maintenance_cost = { gold = 1.73 }
+	high_maintenance_cost = { gold = 5.2 }
+	
+	mercenary_fallback = yes
+	holy_order_fallback = yes
+	
+	stack = 650
+	ai_quality = { value = culture_ai_weight_heavy_infantry }
+	icon = heavy_infantry
+}

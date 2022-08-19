@@ -1,0 +1,42 @@
+﻿heritage_germanic = {
+	type = heritage
+}
+heritage_romance = {
+	type = heritage
+}
+heritage_slavic = {
+	type = heritage
+}
+heritage_basque = {
+	type = heritage
+}
+heritage_celtic = {
+	type = heritage
+}
+heritage_uralic = {
+	type = heritage
+}
+heritage_semitic = {
+	type = heritage
+}
+heritage_balkan = {
+	type = heritage
+}
+heritage_kartvelian = {
+	type = heritage
+}
+heritage_armenian = {
+	type = heritage
+}
+heritage_turkic = {
+	type = heritage
+}
+heritage_indo-iranian = {
+	type = heritage
+}
+heritage_caucasian = {
+	type = heritage
+}
+heritage_inuit-yupik-unangan = {
+	type = heritage
+}

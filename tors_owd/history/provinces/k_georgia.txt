@@ -1,0 +1,131 @@
+#
+10679 = {
+	culture = armenian
+	religion = orthodox
+	holding = castle_holding
+}
+5941 = {
+	culture = georgian
+	religion = orthodox
+	holding = castle_holding
+}
+3312 = {
+	culture = georgian
+	religion = orthodox
+	holding = castle_holding
+}
+9327 = {
+	culture = georgian
+	religion = orthodox
+	holding = castle_holding
+}
+6016 = {
+	culture = georgian
+	religion = orthodox
+	holding = castle_holding
+}
+8381 = {
+	culture = georgian
+	religion = orthodox
+	holding = castle_holding
+}
+6858 = {
+	culture = georgian
+	religion = orthodox
+	holding = castle_holding
+}
+12092 = {
+	culture = georgian
+	religion = orthodox
+	holding = castle_holding
+}
+9646 = {
+	culture = georgian
+	religion = orthodox
+	holding = castle_holding
+}
+1367 = {
+	culture = georgian
+	religion = orthodox
+	holding = castle_holding
+}
+7559 = {
+	culture = georgian
+	religion = orthodox
+	holding = castle_holding
+}
+12461 = {
+	culture = georgian
+	religion = orthodox
+	holding = castle_holding
+}
+13892 = {
+	culture = iranian
+	religion = orthodox
+	holding = castle_holding
+}
+12858 = {
+	culture = georgian
+	religion = orthodox
+	holding = castle_holding
+}
+8237 = {
+	culture = georgian
+	religion = orthodox
+	holding = castle_holding
+}
+3947 = {
+	culture = georgian
+	religion = orthodox
+	holding = castle_holding
+}
+7870 = {
+	culture = georgian
+	religion = orthodox
+	holding = castle_holding
+}
+6303 = {
+	culture = georgian
+	religion = orthodox
+	holding = castle_holding
+}
+11854 = {
+	culture = georgian
+	religion = orthodox
+	holding = castle_holding
+}
+6387 = {
+	culture = georgian
+	religion = orthodox
+	holding = castle_holding
+}
+12627 = {
+	culture = georgian
+	religion = orthodox
+	holding = castle_holding
+}
+11403 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+4287 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+8042 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+7582 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+2325 = {
+	culture = georgian
+	religion = orthodox
+	holding = castle_holding
+}

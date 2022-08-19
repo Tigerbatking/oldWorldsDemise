@@ -1,0 +1,8 @@
+k_ukraine = {
+	1990.3.1 = { succession_laws = { equal_law } }
+	1991.12.5 = {
+		government = feudal_government
+		succession_laws = { feudal_elective_succession_law }
+	}
+	2019.5.20 = { holder = owd0047 }
+}

@@ -1,0 +1,121 @@
+#
+10212 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+3703 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+11242 = {
+	culture = south_slavic
+	religion = catholic
+	holding = castle_holding
+}
+9671 = {
+	culture = south_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+10443 = {
+	culture = south_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+12866 = {
+	culture = south_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+3242 = {
+	culture = south_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+3856 = {
+	culture = south_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+6375 = {
+	culture = south_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+12186 = {
+	culture = south_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+3525 = {
+	culture = south_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+9279 = {
+	culture = south_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+7864 = {
+	culture = south_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+5684 = {
+	culture = south_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+3741 = {
+	culture = south_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+7627 = {
+	culture = south_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+10914 = {
+	culture = south_slavic
+	religion = hanafi
+	holding = castle_holding
+}
+788 = {
+	culture = south_slavic
+	religion = hanafi
+	holding = castle_holding
+}
+9054 = {
+	culture = south_slavic
+	religion = hanafi
+	holding = castle_holding
+}
+11124 = {
+	culture = south_slavic
+	religion = hanafi
+	holding = castle_holding
+}
+9300 = {
+	culture = south_slavic
+	religion = hanafi
+	holding = castle_holding
+}
+11375 = {
+	culture = south_slavic
+	religion = hanafi
+	holding = castle_holding
+}
+1794 = {
+	culture = south_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+10113 = {
+	culture = south_slavic
+	religion = orthodox
+	holding = castle_holding
+}

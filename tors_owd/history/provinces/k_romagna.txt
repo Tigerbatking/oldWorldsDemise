@@ -1,0 +1,276 @@
+#
+12666 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+6500 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+3139 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+1249 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+12409 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+11949 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+10352 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+13350 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+8727 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+4309 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+5810 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+3108 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+6249 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+1139 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+13937 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+9876 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+13312 = {
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+6943 = {
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+7336 = {
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+402 = {
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+8833 = {
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+12070 = {
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+11509 = {
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+7898 = {
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+6270 = {
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+3444 = {
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+10685 = {
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+6978 = {
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+804 = {
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+1383 = {
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+9987 = {
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+12224 = {
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+4070 = {
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+2676 = {
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+9332 = {
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+5927 = {
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+8603 = {
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+8236 = {
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+2688 = {
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+13410 = {
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+8287 = {
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+12743 = {
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+8700 = {
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+12326 = {
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+12764 = {
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+11508 = {
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+9069 = {
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+9022 = {
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+8790 = {
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+3449 = {
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+13031 = {
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+9674 = {
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+6154 = {
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+10688 = {
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}
+10499 = {
+	culture = italian
+	religion = catholic
+	holding = castle_holding
+}

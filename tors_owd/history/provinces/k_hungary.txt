@@ -1,0 +1,256 @@
+#
+2708 = {
+	culture = hungarian
+	religion = catholic
+	holding = castle_holding
+}
+13893 = {
+	culture = hungarian
+	religion = catholic
+	holding = castle_holding
+}
+5706 = {
+	culture = hungarian
+	religion = catholic
+	holding = castle_holding
+}
+8161 = {
+	culture = hungarian
+	religion = catholic
+	holding = castle_holding
+}
+903 = {
+	culture = hungarian
+	religion = catholic
+	holding = castle_holding
+}
+6068 = {
+	culture = hungarian
+	religion = catholic
+	holding = castle_holding
+}
+6820 = {
+	culture = hungarian
+	religion = catholic
+	holding = castle_holding
+}
+3134 = {
+	culture = hungarian
+	religion = catholic
+	holding = castle_holding
+}
+7581 = {
+	culture = hungarian
+	religion = catholic
+	holding = castle_holding
+}
+2509 = {
+	culture = hungarian
+	religion = catholic
+	holding = castle_holding
+}
+10943 = {
+	culture = hungarian
+	religion = catholic
+	holding = castle_holding
+}
+13104 = {
+	culture = hungarian
+	religion = catholic
+	holding = castle_holding
+}
+7514 = {
+	culture = hungarian
+	religion = catholic
+	holding = castle_holding
+}
+3643 = {
+	culture = hungarian
+	religion = catholic
+	holding = castle_holding
+}
+6689 = {
+	culture = hungarian
+	religion = catholic
+	holding = castle_holding
+}
+5676 = {
+	culture = hungarian
+	religion = catholic
+	holding = castle_holding
+}
+5721 = {
+	culture = hungarian
+	religion = catholic
+	holding = castle_holding
+}
+9852 = {
+	culture = hungarian
+	religion = catholic
+	holding = castle_holding
+}
+13819 = {
+	culture = hungarian
+	religion = catholic
+	holding = castle_holding
+}
+3221 = {
+	culture = hungarian
+	religion = catholic
+	holding = castle_holding
+}
+5913 = {
+	culture = hungarian
+	religion = catholic
+	holding = castle_holding
+}
+10136 = {
+	culture = hungarian
+	religion = catholic
+	holding = castle_holding
+}
+6183 = {
+	culture = hungarian
+	religion = catholic
+	holding = castle_holding
+}
+13033 = {
+	culture = hungarian
+	religion = catholic
+	holding = castle_holding
+}
+8334 = {
+	culture = hungarian
+	religion = catholic
+	holding = castle_holding
+}
+9616 = {
+	culture = hungarian
+	religion = catholic
+	holding = castle_holding
+}
+11489 = {
+	culture = hungarian
+	religion = catholic
+	holding = castle_holding
+}
+3848 = {
+	culture = hungarian
+	religion = catholic
+	holding = castle_holding
+}
+9738 = {
+	culture = hungarian
+	religion = catholic
+	holding = castle_holding
+}
+5799 = {
+	culture = hungarian
+	religion = catholic
+	holding = castle_holding
+}
+1237 = {
+	culture = hungarian
+	religion = catholic
+	holding = castle_holding
+}
+2088 = {
+	culture = hungarian
+	religion = catholic
+	holding = castle_holding
+}
+12750 = {
+	culture = hungarian
+	religion = catholic
+	holding = castle_holding
+}
+2001 = {
+	culture = hungarian
+	religion = catholic
+	holding = castle_holding
+}
+11824 = {
+	culture = hungarian
+	religion = catholic
+	holding = castle_holding
+}
+516 = {
+	culture = hungarian
+	religion = catholic
+	holding = castle_holding
+}
+7328 = {
+	culture = hungarian
+	religion = catholic
+	holding = castle_holding
+}
+6760 = {
+	culture = hungarian
+	religion = catholic
+	holding = castle_holding
+}
+5917 = {
+	culture = hungarian
+	religion = catholic
+	holding = castle_holding
+}
+11264 = {
+	culture = hungarian
+	religion = catholic
+	holding = castle_holding
+}
+9547 = {
+	culture = hungarian
+	religion = catholic
+	holding = castle_holding
+}
+8029 = {
+	culture = hungarian
+	religion = protestant
+	holding = castle_holding
+}
+8907 = {
+	culture = hungarian
+	religion = protestant
+	holding = castle_holding
+}
+10717 = {
+	culture = hungarian
+	religion = protestant
+	holding = castle_holding
+}
+43 = {
+	culture = hungarian
+	religion = protestant
+	holding = castle_holding
+}
+1913 = {
+	culture = hungarian
+	religion = protestant
+	holding = castle_holding
+}
+8285 = {
+	culture = hungarian
+	religion = protestant
+	holding = castle_holding
+}
+1105 = {
+	culture = hungarian
+	religion = protestant
+	holding = castle_holding
+}
+8342 = {
+	culture = hungarian
+	religion = protestant
+	holding = castle_holding
+}
+12865 = {
+	culture = hungarian
+	religion = protestant
+	holding = castle_holding
+}
+12344 = {
+	culture = hungarian
+	religion = catholic
+	holding = castle_holding
+}

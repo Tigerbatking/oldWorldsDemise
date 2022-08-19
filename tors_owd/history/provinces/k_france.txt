@@ -1,0 +1,566 @@
+﻿#
+7479 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+12019 = {
+	culture = german
+	religion = catholic
+	holding = castle_holding
+}
+12507 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+13960 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+13736 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+12321 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+3977 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+3319 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+11690 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+7139 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+4920 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+7962 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+11846 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+5509 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+5481 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+2646 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+13138 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+7486 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+12799 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+1808 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+2225 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+8196 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+1875 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+8823 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+7367 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+4969 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+13287 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+6243 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+6331 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+1522 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+224 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+12156 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+12852 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+1071 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+1283 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+13502 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+242 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+3874 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+4832 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+3155 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+2039 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+7148 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+6842 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+3487 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+5189 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+6326 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+11906 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+2257 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+9108 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+6769 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+1740 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+12957 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+1949 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+8610 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+4100 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+9458 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+14000 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+7608 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+5538 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+3273 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+9247 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+3773 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+9447 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+9164 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+12707 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+13186 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+12706 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+5905 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+10076 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+6316 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+4954 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+4551 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+927 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+3008 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+1741 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+13444 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+12940 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+3754 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+4675 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+3727 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+12822 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+6537 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+2332 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+3895 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+6313 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+5630 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+11463 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+2561 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+13614 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+10244 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+7589 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+8760 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+4405 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+3727 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+1602 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+1058 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+4538 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+3557 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+5293 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+4411 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+5654 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+4314 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+9220 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+5014 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+1939 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+14223 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+1305 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+4755 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+13079 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+9247 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+2305 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+13917 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}
+10744 = {
+	culture = west_romance
+	religion = catholic
+	holding = castle_holding
+}

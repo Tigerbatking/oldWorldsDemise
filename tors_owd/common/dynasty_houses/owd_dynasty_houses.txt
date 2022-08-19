@@ -1,0 +1,165 @@
+﻿owd0000 = {
+	prefix = "dynnp_von"
+	name = "dynn_Glucksburg"
+	dynasty = owd0010
+}
+# Bernadotte
+owd0002 = {
+	name="dynn_Windsor"
+	dynasty = owd0014
+}
+owd0003 = {
+	prefix = "dynnp_van"
+	name = "dynn_Orange-Nassau"
+	dynasty = owd0051
+}
+owd0004 = {
+	prefix = "dynnp_von"
+	name = "dynn_Saxe-Coburg"
+	dynasty = owd0014
+}
+owd0005 = {
+	prefix = "dynnp_de"
+	name = "dynn_Bourbon-Parma"
+	dynasty = owd0019
+}
+# Grimaldi
+owd0007 = {
+	prefix = "dynnp_de"
+	name = "dynn_Bourbon"
+	dynasty = owd0019
+}
+owd0008 = {
+	prefix = "dynnp_von"
+	name = "dynn_Schleswig-Holstein-Sonderburg-Beck"
+	dynasty = owd0010
+}
+owd0009 = {
+	prefix = "dynnp_von"
+	name = "dynn_Schleswig-Holstein-Sonderburg"
+	dynasty = owd0010
+}
+# Oldenburg
+owd0011 = {
+	prefix = "dynnp_von"
+	name = "dynn_Saxe-Coburg-Saalfeld"
+	dynasty = owd0014
+}
+owd0012 = {
+	prefix = "dynnp_von"
+	name = "dynn_Wettin"
+	dynasty = owd0014
+}
+owd0013 = {
+	prefix = "dynnp_der"
+	name = "dynn_Belgium"
+	dynasty = owd0014
+}
+# Hunfriding
+# Liechtenstein
+owd0016 = {
+	prefix = "dynnp_de"
+	name = "dynn_Capet"
+	dynasty = owd0019
+}
+owd0017 = {
+	name = "dynn_Robertine"
+	dynasty = owd0019
+}
+owd0018 = {
+	name = "dynn_Merovingian"
+	dynasty = owd0019
+}
+# Ripurian
+# Amsberg
+# Polignac
+# Chalencon
+owd0023 = {
+	prefix = "dynnp_von"
+	name = "dynn_Holstein-Gottorp"
+	dynasty = owd0010
+}
+# Hesse
+owd0025 = {
+	prefix = "dynnp_von"
+	name = "dynn_Hesse-Kassel"
+	dynasty = owd0024
+}
+# Wittelsbach
+owd0027 = {
+	prefix = "dynnp_von"
+	name = "dynn_Palatinate-Zweibrucken"
+	dynasty = owd0026
+}
+# Vasa
+# Bonde
+owd0030 = {
+	prefix = "dynnp_von"
+	name = "dynn_Palatinate-Neumarkt"
+	dynasty = owd0026
+}
+owd0031 = {
+	name = "dynn_Griffin"
+	dynasty = owd0032
+}
+# Piast
+# Yngling
+owd0034 = {
+	name = "dynn_Estridsen"
+	dynasty = owd0033
+}
+owd0035 = {
+	name = "dynn_Mecklenburg-Schwerin"
+	dynasty = owd0036
+}
+#Mecklenburg
+owd0041 = {
+	name = "dynn_Munso"
+	dynasty = owd0033
+}
+owd0042 = {
+	name = "dynn_St_Olaf"
+	dynasty = owd0033
+}
+owd0043 = {
+	name = "dynn_Jelling"
+	dynasty = owd0033
+}
+owd0044 = {
+	name = "dynn_Gorm"
+	dynasty = owd0033
+}
+owd0045 = {
+	name = "dynn_Sverre"
+	dynasty = owd0033
+}
+owd0046 = {
+	name = "dynn_Gille"
+	dynasty = owd0033
+}
+owd0047 = {
+	name = "dynn_Hardrada"
+	dynasty = owd0033
+}
+## Imperial House of Japan
+## von Hohenzollern
+owd0050 = {
+	prefix = "dynnp_von"
+	name = "dynn_Augustenburg"
+	dynasty = owd0010
+}
+## Nassau
+owd0052 = {
+	prefix = "dynnp_vun"
+	name = "dynn_Luxembourg-Nassau"
+	dynasty = owd0051
+}
+owd0053 = {
+	prefix = "dynnp_von"
+	name = "dynn_Nassau-Weilburg"
+	dynasty = owd0051
+}
+owd0054 = {
+	name = "dynn_Romanoff" #Holstein-Gottorp-Romanov
+	dynasty = owd0010
+}

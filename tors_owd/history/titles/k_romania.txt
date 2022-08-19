@@ -1,0 +1,19 @@
+k_romania = {
+	1929.1.1 = { succession_laws = { equal_law } }
+	1974.3.28 = {
+		government = feudal_government
+		succession_laws = { feudal_elective_succession_law }
+	}
+	#2007.1.1 = {
+	#	effect = {
+	#		holder = { 
+	#			#set_court_language = language_anglic
+	#			if = {
+	#				limit = { NOT = { knows_court_language_of = this } }
+	#				learn_court_language_of = this
+	#			}
+	#		}
+	#	}
+	#}
+	2014.12.21 = { holder = owd0046 }
+}

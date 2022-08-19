@@ -1,0 +1,48 @@
+﻿doctrine_christian_direction = {
+	group = "main_group"
+	is_available_on_create = {
+		religion_tag = christian_religion
+	}
+
+	christian_reformed_doctrine = {	#Northern Churches, Protestants, Hussites etc.
+		piety_cost = {
+			value = faith_doctrine_cost_low
+			if = {
+				limit = { has_doctrine = christian_reformed_doctrine }
+				multiply = 0
+			}
+		}
+		parameters = {
+			hostility_override_christian_reformed_doctrine = 1
+			same_hof_hostility_override = 0
+		}
+	}
+	
+	christian_east_doctrine = {	#Eastern Churches, Orthodox, Copts etc.
+		piety_cost = {
+			value = faith_doctrine_cost_low
+			if = {
+				limit = { has_doctrine = christian_east_doctrine }
+				multiply = 0
+			}
+		}
+		parameters = {
+			hostility_override_christian_east_doctrine_doctrine = 1
+			same_hof_hostility_override = 0
+		}
+	}
+
+	christian_west_doctrine = {	#Western Churches, Catholics
+		piety_cost = {
+			value = faith_doctrine_cost_low
+			if = {
+				limit = { has_doctrine = christian_west_doctrine }
+				multiply = 0
+			}
+		}
+		parameters = {
+			hostility_override_christian_west_doctrine_doctrine = 1
+			same_hof_hostility_override = 0
+		}
+	}
+}

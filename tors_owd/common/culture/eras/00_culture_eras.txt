@@ -1,0 +1,95 @@
+﻿culture_era_ancient = {
+	year = 0
+
+	culture_modifier = {
+		culture_tradition_max_add = -4
+	}
+}
+culture_era_classical = {
+	year = 0
+
+	culture_modifier = {
+		culture_tradition_max_add = 1
+	}
+	modifier = {
+		mercenary_hire_cost_mult = 0.025
+	}
+	custom = more_expensive_court_positions
+}
+culture_era_medieval = {
+	year = 500
+
+	culture_modifier = {
+		culture_tradition_max_add = 1
+	}
+	modifier = {
+		mercenary_hire_cost_mult = 0.05
+	}
+	custom = more_expensive_court_positions
+}
+culture_era_renaissance = {
+	year = 1350
+
+	culture_modifier = {
+		culture_tradition_max_add = 1
+	}
+	modifier = {
+		mercenary_hire_cost_mult = 0.075
+	}
+	custom = more_expensive_court_positions
+}
+culture_era_industrial = {
+	year = 1725
+
+	culture_modifier = {
+		culture_tradition_max_add = 1
+	}
+	modifier = {
+		mercenary_hire_cost_mult = 0.1
+	}
+	custom = more_expensive_court_positions
+}
+culture_era_modern = {
+	year = 1890
+
+	culture_modifier = {
+		culture_tradition_max_add = 1
+	}
+	modifier = {
+		mercenary_hire_cost_mult = 0.125
+	}
+	custom = more_expensive_court_positions
+}
+culture_era_atomic = {
+	year = 1945
+
+	culture_modifier = {
+		culture_tradition_max_add = 1
+	}
+	modifier = {
+		mercenary_hire_cost_mult = 0.15
+	}
+	custom = more_expensive_court_positions
+}
+culture_era_information = {
+	year = 1995
+
+	culture_modifier = {
+		culture_tradition_max_add = 1
+	}
+	modifier = {
+		mercenary_hire_cost_mult = 0.175
+	}
+	custom = more_expensive_court_positions
+}
+culture_era_future = {
+	year = 2050
+
+	culture_modifier = {
+		culture_tradition_max_add = 1
+	}
+	modifier = {
+		mercenary_hire_cost_mult = 0.2
+	}
+	custom = more_expensive_court_positions
+}

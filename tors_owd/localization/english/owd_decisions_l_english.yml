@@ -1,0 +1,10 @@
+﻿l_english:
+ owd_thank_you_decision:0 "Old World's Demise Credits"
+ owd_thank_you_decision_desc:0 "Old World's Demise is a project which has numerous contributers, click here to see them all!"
+ owd_thank_you_decision_tooltip:0 "The Credits of OWD"
+ owd_thank_you_decision.0001:0 "You will recieve an event of all the contributers of OWD, and have some potentially #italic unique#! characters appear."
+ owd_thank_you_decision_confirm:0 "I'm a good person, and want to read credits!"
+
+ owd_thank_you_event.0001.title:0 "A Unique Visitor"
+ owd_thank_you_event.0001.desc:0 "On a day like any other, I mind my buisness when suddenly a young [tor_ee.GetLadyLord] approaches me,\n\n"You majesty, [ROOT.Char.GetTitledFirstName]," [tor_ee.GetSheHe] starts, performing a half bow, "I have finally brought the list of contributers!"\n\nBefore I can get a word in, [tor_ee.GetSheHe] hands over a scroll containing a list of names.\nIt reads as follows:\n\n#N Patreon Supporters#!\n'Count Stavian - March 2nd 2022'\n\n#P Community Helpers#!\n'Strawberry MK.VI - Localisation, and Ideas'\n'Dr Jimothy - Ideas'\n'Pyroshrimp - Ideas and Test Subject'\n\nThe strange [tor_ee.GetLadyLord], then proceeds to give another small bow, and continues, "I would also like to thank you, the player for downloading this mod, to even play. I will now disappear somewhere across this world, and may we meet once more!"\n\nAs [tor_ee.GetSheHe] starts once more, [tor_ee.GetSheHe] pauses and turns around\n\n"Before I forget, please take this, a token of gratitude."\n\nFlashing a smile she leaves just as quickly as she came."
+ owd_thank_you_event.0001.a:0 "You're Welcome, and Thank You, Stranger"

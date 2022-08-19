@@ -1,0 +1,8 @@
+k_belarus = {
+	1919.2.4 = { succession_laws = { equal_law } }
+	1994.7.20 = {
+		government = feudal_government
+		succession_laws = { feudal_elective_succession_law }
+	}
+	1994.7.20 = { holder = owd0048 }
+}

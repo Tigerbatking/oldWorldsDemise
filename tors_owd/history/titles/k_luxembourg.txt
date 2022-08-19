@@ -1,0 +1,26 @@
+﻿k_luxembourg = {
+	1.1.1 = {
+		government = feudal_government
+		succession_laws = { single_heir_succession_law }
+	}
+	#1973.1.1 = {
+	#	effect = {
+	#		holder = { 
+	#			#set_court_language = language_anglic
+	#			if = {
+	#				limit = { NOT = { knows_court_language_of = this } }
+	#				learn_court_language_of = this
+	#			}
+	#		}
+	#	}
+	#}
+	1815.3.16 = { holder = owd2211 }
+	1840.10.7 = { holder = owd2210 }
+	1849.3.17 = { holder = owd2209 }
+	1890.11.23 = { holder = owd2239 }
+	1905.11.17 = { holder = owd2238 }
+	1912.2.25 = { holder = owd2240 }
+	1919.1.14 = { holder = owd2237 }
+	1964.11.12 = { holder = owd2216 }
+	2000.10.7 = { holder = owd0012 }
+}

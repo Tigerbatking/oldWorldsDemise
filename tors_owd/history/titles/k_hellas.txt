@@ -1,0 +1,37 @@
+k_greece = {
+	1952.5.28 = { succession_laws = { equal_law } }
+	1974.12.18 = {
+		government = feudal_government
+		succession_laws = { feudal_elective_succession_law }
+	}
+	1863.3.30 = { holder = owd2228 }
+	1913.3.18 = { holder = owd2227 }
+	1917.6.11 = { holder = owd2461 }
+	1920.12.19 = { holder = owd2227 }
+	1922.9.27 = { holder = owd2462 }
+	1924.3.5 = { holder = 0 }
+	1935.11.3 = { holder = owd2462 }
+	1947.4.1 = { holder = owd2226 }
+	1964.3.6 = { holder = owd2462 }
+	1973.6.1 = { holder = 0 }
+	2020.3.13 = { holder = owd0023 }
+}
+d_cyprus = {
+	1960.8.16 = {
+		government = feudal_government
+		succession_laws = { feudal_elective_succession_law }
+	}
+	1985.1.1 = { succession_laws = { equal_law } }
+	#2004.1.1 = {
+	#	effect = {
+	#		holder = { 
+	#			#set_court_language = language_anglic
+	#			if = {
+	#				limit = { NOT = { knows_court_language_of = this } }
+	#				learn_court_language_of = this
+	#			}
+	#		}
+	#	}
+	#}
+	2013.2.28 = { holder = owd0025 }
+}

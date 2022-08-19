@@ -1,0 +1,24 @@
+k_papal_state = {
+	#2.1.1 = {
+	#	government = theocracy_government 
+	#	effect = {
+	#		holder = { 
+	#			#set_court_language = language_latin
+	#			if = {
+	#				limit = { NOT = { knows_court_language_of = this } }
+	#				learn_court_language_of = this
+	#			}
+	#		}
+	#	}
+	#}
+	2013.3.13 = { holder = owd0019 }
+}
+k_orthodox = {
+	1991.11.2 = { holder = owd0058 }
+}
+d_coptic_papacy = {
+	2012.11.18 = { holder = owd0059 }
+}
+d_apostolic_church = {
+	1999.10.27 = { holder = owd0060 }
+}

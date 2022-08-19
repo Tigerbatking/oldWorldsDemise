@@ -1,0 +1,326 @@
+#
+6734 = {
+	culture = finnish
+	religion = orthodox
+	holding = castle_holding
+}
+9160 = {
+	culture = finnish
+	religion = orthodox
+	holding = castle_holding
+}
+6759 = {
+	culture = finnish
+	religion = orthodox
+	holding = castle_holding
+}
+12910 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+12803 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+7916 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+1337 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+10356 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+13828 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+9851 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+11709 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+11029 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+5923 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+3410 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+12464 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+13351 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+5682 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+7519 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+7177 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+7343 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+5834 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+8013 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+2908 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+1898 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+939 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+8578 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+2609 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+10937 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+11986 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+9569 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+8956 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+3104 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+1710 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+11993 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+8718 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+13217 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+13008 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+8575 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+8530 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+13236 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+9377 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+1988 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+9182 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+4441 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+11178 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+7447 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+6618 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+9065 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+871 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+13564 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+8347 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+6028 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+8680 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+11990 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+12753 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+4251 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+37 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+8910 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+2105 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+7091 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+5488 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+8675 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+13122 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+5830 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}
+3744 = {
+	culture = east_slavic
+	religion = orthodox
+	holding = castle_holding
+}

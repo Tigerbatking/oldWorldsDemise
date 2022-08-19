@@ -1,0 +1,11 @@
+k_lyon = {
+	2017.6.22 = {
+		government = feudal_government
+		liege = e_france
+		succession_laws = {
+			feudal_elective_succession_law
+			equal_law
+		}
+		holder = owd1082
+	}
+}

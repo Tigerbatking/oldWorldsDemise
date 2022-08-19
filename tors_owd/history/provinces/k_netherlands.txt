@@ -1,0 +1,216 @@
+#
+8936 = {
+	culture = german
+	religion = atheist
+	holding = castle_holding
+}
+5469 = {
+	culture = german
+	religion = atheist
+	holding = castle_holding
+}
+8584 = {
+	culture = german
+	religion = atheist
+	holding = castle_holding
+}
+12749 = {
+	culture = german
+	religion = atheist
+	holding = castle_holding
+}
+12463 = {
+	culture = german
+	religion = protestant
+	holding = castle_holding
+}
+9064 = {
+	culture = german
+	religion = atheist
+	holding = castle_holding
+}
+13533 = {
+	culture = german
+	religion = atheist
+	holding = castle_holding
+}
+4822 = {
+	culture = german
+	religion = atheist
+	holding = castle_holding
+}
+6503 = {
+	culture = german
+	religion = atheist
+	holding = castle_holding
+}
+11888 = {
+	culture = german
+	religion = protestant
+	holding = castle_holding
+}
+13032 = {
+	culture = german
+	religion = protestant
+	holding = castle_holding
+}
+8843 = {
+	culture = german
+	religion = protestant
+	holding = castle_holding
+}
+6718 = {
+	culture = german
+	religion = protestant
+	holding = castle_holding
+}
+7775 = {
+	culture = german
+	religion = protestant
+	holding = castle_holding
+}
+10429 = {
+	culture = german
+	religion = protestant
+	holding = castle_holding
+}
+9530 = {
+	culture = german
+	religion = atheist
+	holding = castle_holding
+}
+14280 = {
+	culture = german
+	religion = atheist
+	holding = castle_holding
+}
+13785 = {
+	culture = german
+	religion = catholic
+	holding = castle_holding
+}
+8672 = {
+	culture = german
+	religion = catholic
+	holding = castle_holding
+}
+8612 = {
+	culture = german
+	religion = atheist
+	holding = castle_holding
+}
+11491 = {
+	culture = german
+	religion = atheist
+	holding = castle_holding
+}
+6194 = {
+	culture = german
+	religion = atheist
+	holding = castle_holding
+}
+11837 = {
+	culture = german
+	religion = atheist
+	holding = castle_holding
+}
+8218 = {
+	culture = german
+	religion = atheist
+	holding = castle_holding
+}
+1475 = {
+	culture = german
+	religion = atheist
+	holding = castle_holding
+}
+12754 = {
+	culture = german
+	religion = atheist
+	holding = castle_holding
+}
+7776 = {
+	culture = german
+	religion = atheist
+	holding = castle_holding
+}
+10895 = {
+	culture = german
+	religion = atheist
+	holding = castle_holding
+}
+13361 = {
+	culture = german
+	religion = atheist
+	holding = castle_holding
+}
+6175 = {
+	culture = german
+	religion = atheist
+	holding = castle_holding
+}
+12198 = {
+	culture = german
+	religion = atheist
+	holding = castle_holding
+}
+1977 = {
+	culture = german
+	religion = catholic
+	holding = castle_holding
+}
+12485 = {
+	culture = german
+	religion = protestant
+	holding = castle_holding
+}
+13200 = {
+	culture = german
+	religion = atheist
+	holding = castle_holding
+}
+7862 = {
+	culture = german
+	religion = protestant
+	holding = castle_holding
+}
+7801 = {
+	culture = german
+	religion = catholic
+	holding = castle_holding
+}
+3831 = {
+	culture = german
+	religion = catholic
+	holding = castle_holding
+}
+7997 = {
+	culture = german
+	religion = catholic
+	holding = castle_holding
+}
+12574 = {
+	culture = german
+	religion = catholic
+	holding = castle_holding
+}
+2524 = {
+	culture = german
+	religion = catholic
+	holding = castle_holding
+}
+9555 = {
+	culture = german
+	religion = catholic
+	holding = castle_holding
+}
+12391 = {
+	culture = german
+	religion = catholic
+	holding = castle_holding
+}
+5937 = {
+	culture = german
+	religion = catholic
+	holding = castle_holding
+}
