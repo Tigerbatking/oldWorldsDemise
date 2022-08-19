@@ -1,0 +1,44 @@
+﻿brythonic = {
+	color = { 0.3 0.8 0.6 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_celtic
+	language = language_brythonic
+	martial_custom = martial_custom_male_only
+	
+	name_list = name_list_welsh
+	
+	coa_gfx = { welsh_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
+	ethnicities = {
+		5 = caucasian_blond
+		30 = caucasian_ginger
+		35 = caucasian_brown_hair
+		30 = caucasian_dark_hair
+	}
+}
+goidelic = {
+	color = { 0.3 0.8 0.8 }
+	
+	ethos = ethos_courtly
+	heritage = heritage_celtic
+	language = language_goidelic
+	martial_custom = martial_custom_male_only
+	
+	name_list = name_list_irish
+	
+	coa_gfx = { irish_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
+	ethnicities = {
+		5 = caucasian_blond
+		30 = caucasian_ginger
+		35 = caucasian_brown_hair
+		30 = caucasian_dark_hair
+	}
+}
