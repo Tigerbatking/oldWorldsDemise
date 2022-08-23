@@ -11,11 +11,11 @@ bm_250_kofun = { # Japan
 	is_playable = yes
 }
 bm_395_fallen_eagle = { # Rome + Byzantium
-	start_date = 100.1.1
+	start_date = 395.1.1
 	is_playable = yes
 }
 bm_532_second_consulship = { # Rome + Parthia
-	start_date = 100.1.1
+	start_date = 532.1.1
 	is_playable = yes
 }
 bm_632_islam = { # Arabia
