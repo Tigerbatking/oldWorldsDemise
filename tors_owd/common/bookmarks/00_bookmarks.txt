@@ -1,6 +1,7 @@
 bm_100_centurian_dawn = { # Global
 	start_date = 100.1.1
 	is_playable = yes
+	recommended = yes
 }
 bm_222_three_kingdoms = { # Korea
 	start_date = 222.1.1
