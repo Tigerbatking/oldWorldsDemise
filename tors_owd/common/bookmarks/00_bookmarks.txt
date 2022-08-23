@@ -171,7 +171,7 @@ bm_1936_gathering_storm = { # Eurasia
 	is_playable = yes
 	recommended = yes
 }
-bm_1939_not_so_great_war = { # Eurasia
+bm_1939_blitzkrieg = { # Eurasia
 	start_date = 1939.9.1
 	is_playable = yes
 }
