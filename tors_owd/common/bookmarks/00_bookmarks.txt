@@ -31,7 +31,7 @@ bm_768_charlemagne = { # Frankia
 	is_playable = yes
 }
 bm_867_old_gods = { # Scandinavia
-	start_date = 768.9.24
+	start_date = 867.1.1
 	is_playable = yes
 	recommended = yes
 }
@@ -169,6 +169,7 @@ bm_1933_rise_of_evil = { # Germany
 bm_1936_gathering_storm = { # Eurasia
 	start_date = 1936.1.1
 	is_playable = yes
+	recommended = yes
 }
 bm_1939_not_so_great_war = { # Eurasia
 	start_date = 1939.9.1
