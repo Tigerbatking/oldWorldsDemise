@@ -99,3 +99,10 @@
  inuit:0 "Inuk"
  inuit_prefix:0 "Inno"
  inuit_collective_noun:0 "Inuits"
+
+ american:0 "American"
+ american_prefix:0 "American"
+ american_collective_noun:0 "Americans"
+ canadian:0 "Canadian"
+ canadian_prefix:0 "Canadians"
+ canadian_collective_noun:0 "Canadians"
