@@ -1,0 +1,121 @@
+e_canada = {
+	color = { 232 32 66}
+
+
+	k_newfoundland = {
+		color = { 200 10 35 }
+		
+
+
+		d_labrador = {
+			color = { 150 25 30 }
+			
+			c_mochkimmsos = {
+				color = { 100 50 35 }
+
+				b_mochkimmsos = {
+					province = 14132
+
+					color = { 100 50 35 }
+				}
+			}
+			c_andkamarinda = {
+				color = { 120 70 66 }
+				
+				b_andkamarinda = {
+					province = 1869
+
+					color = { 120 70 66 }
+				}
+			}
+			c_gandemthena = {
+				color = { 135 80 80 }
+				
+				b_gandemthena = {
+					province = 13011
+
+					color = { 135 80 80 }
+				}
+			}
+			c_amimetainon = {
+				color = { 190 122 55 }
+
+				b_amimetainon = {
+					province = 12204
+
+					color = { 190 122 55 }
+				}
+			}
+			c_metmonastithos = {
+				color = {211 132 44 }
+				
+				b_metmonastithos = {
+					province = 6983
+			
+					color = { 211 132 44 }
+				}
+			}
+		}
+	
+		d_newfoundland = {
+			color = { 20 125 66 }
+
+			c_gorgidymtes = {
+				color = { 35 155 40 }
+
+				b_gorgidymtes = { 35 155 40 }
+					province = 12985
+
+					color = { 35 155 40}
+				}
+			}
+			c_laborysoas = {
+				color = { 30 140 32 }
+
+				b_laborysaos = {
+					province = 860
+
+					color = { 30 140 32 }
+				}
+			}
+			c_monastihieratherna = {
+				color = { 35 100 99 }
+
+				b_monastihieratherna = {
+					province = 7687
+
+					color = { 35 100 99 }
+				}
+			}
+			c_clazonicoatrea = {
+				color = { 35 100 99 }
+
+				b_clazonicoatrea = {
+					province = 9393
+
+					color = { 35 100 99 }
+				}
+			}
+			c_apahierera = {
+				color = { 35 100 99 }
+
+				b_apahierera = {
+					province = 6867
+
+					color = { 35 100 99 }
+				}
+			}
+			c_mukaphimos = {
+				color = { 35 100 99 }
+
+				b_mukaphimos = {
+					province = 6526
+
+					color = { 35 100 99 }
+				}
+			}
+		}
+	}
+}
+			
+		
