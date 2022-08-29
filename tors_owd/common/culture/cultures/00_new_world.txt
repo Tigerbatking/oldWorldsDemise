@@ -3,7 +3,7 @@ american = {
 	
 	ethos = ethos_bellicose
 	heritage = heritage_new_world
-	language = language_anglic
+	language = language_german
 	martial_custom = martial_custom_male_only
 	
 	name_list = name_list_german
@@ -26,7 +26,7 @@ canadian = {
 	
 	ethos = ethos_courtly
 	heritage = heritage_new_world
-	language = language_french
+	language = language_east_romance
 	martial_custom = martial_custom_male_only
 	brythonic
 	name_list = name_list_french
