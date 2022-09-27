@@ -1,3 +1,0 @@
-k_naples = {
-	1735.7.3 = { holder = owd2235 }
-}

@@ -1,8 +1,0 @@
-k_moldova = {
-	1929.1.1 = { succession_laws = { equal_law } }
-	1990.9.3 = {
-		government = feudal_government
-		succession_laws = { feudal_elective_succession_law }
-	}
-	2020.12.24 = { holder = owd0056 }
-}

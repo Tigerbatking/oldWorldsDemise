@@ -1,8 +1,0 @@
-﻿k_macedonia = {
-	1945.1.1 = { succession_laws = { equal_law } }
-	1991.4.16 = {
-		government = feudal_government
-		succession_laws = { feudal_elective_succession_law }
-	}
-	2019.5.12 = { holder = owd0029 }
-}

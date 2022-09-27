@@ -1,8 +1,0 @@
-k_armenia = {
-	1919.6.22 = { succession_laws = { equal_law } }
-	1991.11.11 = {
-		government = feudal_government
-		succession_laws = { feudal_elective_succession_law }
-	}
-	2021.8.2 = { holder = owd0051 }
-}

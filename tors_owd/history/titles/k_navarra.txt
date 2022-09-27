@@ -1,4 +1,0 @@
-#
-k_navarra = {
-	1572.6.9 = { holder = owd2327 }
-}

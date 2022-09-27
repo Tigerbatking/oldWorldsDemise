@@ -1,7 +1,0 @@
-﻿l_english:
- republic_elective_electors:0 "Counties"
- republic_elective_electors_tooltip:0 "Within the [republic|E] all [counties|E] are give a single vote, to be distributed by its [holder|E]"
- republic_elective_candidates:0 "Citizens"
- republic_elective_candidates_tooltip:0 "A [republic|E] allows anyone who is one of the following:\n$EFFECT_LIST_BULLET$The same [culture|E] as the [holder|E]\n$EFFECT_LIST_BULLET$A [courtier|E] of the [holder|E]\n$EFFECT_LIST_BULLET$[title|E] [claimants|E]\n$EFFECT_LIST_BULLET$De facto [vassals|E]\n$EFFECT_LIST_BULLET$[close_family|E] of the [holder|E]"
- republic_elective_succession_law:0 "Republican Election"
- tooltip_republic_representation:1 "Total [counties|E] with positive [county_opinion|E]: $VALUE|=+0$"

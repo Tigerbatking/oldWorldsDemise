@@ -1,4 +1,0 @@
-c_barcelona = {
-	1977.1.1 = { holder = owd2229 }
-	1993.4.1 = { holder = 0 }
-}

@@ -1,3 +1,0 @@
-﻿censored_character = {
-	shown_in_ruler_designer = no
-}

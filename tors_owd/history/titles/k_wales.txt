@@ -1,9 +1,0 @@
-k_wales = {
-	1958.7.26 = {
-		government = feudal_government
-		succession_laws = { single_heir_succession_law }
-		liege = e_britannia
-		holder = owd2055
-	}
-	2013.5.25 = { succession_laws = { equal_law } }
-}
